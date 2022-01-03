@@ -13,6 +13,8 @@ jobs:
     - name: Fetch latest data
       run: |-
         curl -L https://data.chhs.ca.gov/dataset/f333528b-4d38-4814-bebb-12db1f10f535/resource/046cdd2b-31e5-4d34-9ed3-b48cdbc4be7a/download/covid19cases_test.csv -o cases_by_county.csv
+        curl -L https://data.chhs.ca.gov/dataset/f333528b-4d38-4814-bebb-12db1f10f535/resource/e2c6a86b-d269-4ce1-b484-570353265183/download/covid19casesdemographics.csv -o cases_demographics.csv
+        curl -L https://data.chhs.ca.gov/dataset/2df3e19e-9ee4-42a6-a087-9761f82033f6/resource/47af979d-8685-4981-bced-96a6b79d3ed5/download/covid19hospitalbycounty.csv -o hospitalization_by_county.csv
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
