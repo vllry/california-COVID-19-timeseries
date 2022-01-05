@@ -1,0 +1,4678 @@
+[
+  {
+    "specimen_collection_date": "2020-03-03T00:00:00.000",
+    "new_cases": "2",
+    "cumulative_cases": "2",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.368"
+  },
+  {
+    "specimen_collection_date": "2020-03-04T00:00:00.000",
+    "new_cases": "0",
+    "cumulative_cases": "2",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.420"
+  },
+  {
+    "specimen_collection_date": "2020-03-05T00:00:00.000",
+    "new_cases": "6",
+    "cumulative_cases": "8",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.008"
+  },
+  {
+    "specimen_collection_date": "2020-03-06T00:00:00.000",
+    "new_cases": "0",
+    "cumulative_cases": "8",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.369"
+  },
+  {
+    "specimen_collection_date": "2020-03-07T00:00:00.000",
+    "new_cases": "5",
+    "cumulative_cases": "13",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.581"
+  },
+  {
+    "specimen_collection_date": "2020-03-08T00:00:00.000",
+    "new_cases": "1",
+    "cumulative_cases": "14",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.009"
+  },
+  {
+    "specimen_collection_date": "2020-03-09T00:00:00.000",
+    "new_cases": "0",
+    "cumulative_cases": "14",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.374"
+  },
+  {
+    "specimen_collection_date": "2020-03-10T00:00:00.000",
+    "new_cases": "6",
+    "cumulative_cases": "20",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.585"
+  },
+  {
+    "specimen_collection_date": "2020-03-11T00:00:00.000",
+    "new_cases": "9",
+    "cumulative_cases": "29",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.011"
+  },
+  {
+    "specimen_collection_date": "2020-03-12T00:00:00.000",
+    "new_cases": "6",
+    "cumulative_cases": "35",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.376"
+  },
+  {
+    "specimen_collection_date": "2020-03-13T00:00:00.000",
+    "new_cases": "16",
+    "cumulative_cases": "51",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.587"
+  },
+  {
+    "specimen_collection_date": "2020-03-14T00:00:00.000",
+    "new_cases": "10",
+    "cumulative_cases": "61",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.012"
+  },
+  {
+    "specimen_collection_date": "2020-03-15T00:00:00.000",
+    "new_cases": "11",
+    "cumulative_cases": "72",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.379"
+  },
+  {
+    "specimen_collection_date": "2020-03-16T00:00:00.000",
+    "new_cases": "41",
+    "cumulative_cases": "113",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.589"
+  },
+  {
+    "specimen_collection_date": "2020-03-17T00:00:00.000",
+    "new_cases": "26",
+    "cumulative_cases": "139",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.013"
+  },
+  {
+    "specimen_collection_date": "2020-03-18T00:00:00.000",
+    "new_cases": "21",
+    "cumulative_cases": "160",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.381"
+  },
+  {
+    "specimen_collection_date": "2020-03-19T00:00:00.000",
+    "new_cases": "19",
+    "cumulative_cases": "179",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.593"
+  },
+  {
+    "specimen_collection_date": "2020-03-20T00:00:00.000",
+    "new_cases": "35",
+    "cumulative_cases": "214",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.015"
+  },
+  {
+    "specimen_collection_date": "2020-03-21T00:00:00.000",
+    "new_cases": "17",
+    "cumulative_cases": "231",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.386"
+  },
+  {
+    "specimen_collection_date": "2020-03-22T00:00:00.000",
+    "new_cases": "25",
+    "cumulative_cases": "256",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.595"
+  },
+  {
+    "specimen_collection_date": "2020-03-23T00:00:00.000",
+    "new_cases": "33",
+    "cumulative_cases": "289",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.016"
+  },
+  {
+    "specimen_collection_date": "2020-03-24T00:00:00.000",
+    "new_cases": "41",
+    "cumulative_cases": "330",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.388"
+  },
+  {
+    "specimen_collection_date": "2020-03-25T00:00:00.000",
+    "new_cases": "43",
+    "cumulative_cases": "373",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.597"
+  },
+  {
+    "specimen_collection_date": "2020-03-26T00:00:00.000",
+    "new_cases": "40",
+    "cumulative_cases": "413",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.017"
+  },
+  {
+    "specimen_collection_date": "2020-03-27T00:00:00.000",
+    "new_cases": "32",
+    "cumulative_cases": "445",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.389"
+  },
+  {
+    "specimen_collection_date": "2020-03-28T00:00:00.000",
+    "new_cases": "17",
+    "cumulative_cases": "462",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.599"
+  },
+  {
+    "specimen_collection_date": "2020-03-29T00:00:00.000",
+    "new_cases": "13",
+    "cumulative_cases": "475",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.019"
+  },
+  {
+    "specimen_collection_date": "2020-03-30T00:00:00.000",
+    "new_cases": "42",
+    "cumulative_cases": "517",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.391"
+  },
+  {
+    "specimen_collection_date": "2020-03-31T00:00:00.000",
+    "new_cases": "55",
+    "cumulative_cases": "572",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.601"
+  },
+  {
+    "specimen_collection_date": "2020-04-01T00:00:00.000",
+    "new_cases": "39",
+    "cumulative_cases": "611",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.020"
+  },
+  {
+    "specimen_collection_date": "2020-04-02T00:00:00.000",
+    "new_cases": "37",
+    "cumulative_cases": "648",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.392"
+  },
+  {
+    "specimen_collection_date": "2020-04-03T00:00:00.000",
+    "new_cases": "26",
+    "cumulative_cases": "674",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.603"
+  },
+  {
+    "specimen_collection_date": "2020-04-04T00:00:00.000",
+    "new_cases": "15",
+    "cumulative_cases": "689",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.021"
+  },
+  {
+    "specimen_collection_date": "2020-04-05T00:00:00.000",
+    "new_cases": "35",
+    "cumulative_cases": "724",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.393"
+  },
+  {
+    "specimen_collection_date": "2020-04-06T00:00:00.000",
+    "new_cases": "51",
+    "cumulative_cases": "775",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.609"
+  },
+  {
+    "specimen_collection_date": "2020-04-07T00:00:00.000",
+    "new_cases": "56",
+    "cumulative_cases": "831",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.023"
+  },
+  {
+    "specimen_collection_date": "2020-04-08T00:00:00.000",
+    "new_cases": "65",
+    "cumulative_cases": "896",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.395"
+  },
+  {
+    "specimen_collection_date": "2020-04-09T00:00:00.000",
+    "new_cases": "76",
+    "cumulative_cases": "972",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.611"
+  },
+  {
+    "specimen_collection_date": "2020-04-10T00:00:00.000",
+    "new_cases": "26",
+    "cumulative_cases": "998",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.024"
+  },
+  {
+    "specimen_collection_date": "2020-04-11T00:00:00.000",
+    "new_cases": "23",
+    "cumulative_cases": "1021",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.398"
+  },
+  {
+    "specimen_collection_date": "2020-04-12T00:00:00.000",
+    "new_cases": "18",
+    "cumulative_cases": "1039",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.619"
+  },
+  {
+    "specimen_collection_date": "2020-04-13T00:00:00.000",
+    "new_cases": "33",
+    "cumulative_cases": "1072",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.026"
+  },
+  {
+    "specimen_collection_date": "2020-04-14T00:00:00.000",
+    "new_cases": "46",
+    "cumulative_cases": "1118",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.400"
+  },
+  {
+    "specimen_collection_date": "2020-04-15T00:00:00.000",
+    "new_cases": "52",
+    "cumulative_cases": "1170",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.623"
+  },
+  {
+    "specimen_collection_date": "2020-04-16T00:00:00.000",
+    "new_cases": "31",
+    "cumulative_cases": "1201",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.027"
+  },
+  {
+    "specimen_collection_date": "2020-04-17T00:00:00.000",
+    "new_cases": "40",
+    "cumulative_cases": "1241",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.401"
+  },
+  {
+    "specimen_collection_date": "2020-04-18T00:00:00.000",
+    "new_cases": "14",
+    "cumulative_cases": "1255",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.627"
+  },
+  {
+    "specimen_collection_date": "2020-04-19T00:00:00.000",
+    "new_cases": "32",
+    "cumulative_cases": "1287",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.028"
+  },
+  {
+    "specimen_collection_date": "2020-04-20T00:00:00.000",
+    "new_cases": "37",
+    "cumulative_cases": "1324",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.403"
+  },
+  {
+    "specimen_collection_date": "2020-04-21T00:00:00.000",
+    "new_cases": "30",
+    "cumulative_cases": "1354",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.630"
+  },
+  {
+    "specimen_collection_date": "2020-04-22T00:00:00.000",
+    "new_cases": "32",
+    "cumulative_cases": "1386",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.030"
+  },
+  {
+    "specimen_collection_date": "2020-04-23T00:00:00.000",
+    "new_cases": "46",
+    "cumulative_cases": "1432",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.404"
+  },
+  {
+    "specimen_collection_date": "2020-04-24T00:00:00.000",
+    "new_cases": "35",
+    "cumulative_cases": "1467",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.632"
+  },
+  {
+    "specimen_collection_date": "2020-04-25T00:00:00.000",
+    "new_cases": "50",
+    "cumulative_cases": "1517",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.031"
+  },
+  {
+    "specimen_collection_date": "2020-04-26T00:00:00.000",
+    "new_cases": "32",
+    "cumulative_cases": "1549",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.406"
+  },
+  {
+    "specimen_collection_date": "2020-04-27T00:00:00.000",
+    "new_cases": "36",
+    "cumulative_cases": "1585",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.634"
+  },
+  {
+    "specimen_collection_date": "2020-04-28T00:00:00.000",
+    "new_cases": "72",
+    "cumulative_cases": "1657",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.032"
+  },
+  {
+    "specimen_collection_date": "2020-04-29T00:00:00.000",
+    "new_cases": "48",
+    "cumulative_cases": "1705",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.408"
+  },
+  {
+    "specimen_collection_date": "2020-04-30T00:00:00.000",
+    "new_cases": "38",
+    "cumulative_cases": "1743",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.636"
+  },
+  {
+    "specimen_collection_date": "2020-05-01T00:00:00.000",
+    "new_cases": "34",
+    "cumulative_cases": "1777",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.034"
+  },
+  {
+    "specimen_collection_date": "2020-05-02T00:00:00.000",
+    "new_cases": "45",
+    "cumulative_cases": "1822",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.409"
+  },
+  {
+    "specimen_collection_date": "2020-05-03T00:00:00.000",
+    "new_cases": "11",
+    "cumulative_cases": "1833",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.638"
+  },
+  {
+    "specimen_collection_date": "2020-05-04T00:00:00.000",
+    "new_cases": "44",
+    "cumulative_cases": "1877",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.035"
+  },
+  {
+    "specimen_collection_date": "2020-05-05T00:00:00.000",
+    "new_cases": "44",
+    "cumulative_cases": "1921",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.411"
+  },
+  {
+    "specimen_collection_date": "2020-05-06T00:00:00.000",
+    "new_cases": "41",
+    "cumulative_cases": "1962",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.639"
+  },
+  {
+    "specimen_collection_date": "2020-05-07T00:00:00.000",
+    "new_cases": "27",
+    "cumulative_cases": "1989",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.036"
+  },
+  {
+    "specimen_collection_date": "2020-05-08T00:00:00.000",
+    "new_cases": "27",
+    "cumulative_cases": "2016",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.412"
+  },
+  {
+    "specimen_collection_date": "2020-05-09T00:00:00.000",
+    "new_cases": "7",
+    "cumulative_cases": "2023",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.641"
+  },
+  {
+    "specimen_collection_date": "2020-05-10T00:00:00.000",
+    "new_cases": "5",
+    "cumulative_cases": "2028",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.038"
+  },
+  {
+    "specimen_collection_date": "2020-05-11T00:00:00.000",
+    "new_cases": "27",
+    "cumulative_cases": "2055",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.415"
+  },
+  {
+    "specimen_collection_date": "2020-05-12T00:00:00.000",
+    "new_cases": "50",
+    "cumulative_cases": "2105",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.643"
+  },
+  {
+    "specimen_collection_date": "2020-05-13T00:00:00.000",
+    "new_cases": "32",
+    "cumulative_cases": "2137",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.039"
+  },
+  {
+    "specimen_collection_date": "2020-05-14T00:00:00.000",
+    "new_cases": "34",
+    "cumulative_cases": "2171",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.417"
+  },
+  {
+    "specimen_collection_date": "2020-05-15T00:00:00.000",
+    "new_cases": "34",
+    "cumulative_cases": "2205",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.646"
+  },
+  {
+    "specimen_collection_date": "2020-05-16T00:00:00.000",
+    "new_cases": "8",
+    "cumulative_cases": "2213",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.040"
+  },
+  {
+    "specimen_collection_date": "2020-05-17T00:00:00.000",
+    "new_cases": "10",
+    "cumulative_cases": "2223",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.419"
+  },
+  {
+    "specimen_collection_date": "2020-05-18T00:00:00.000",
+    "new_cases": "44",
+    "cumulative_cases": "2267",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.648"
+  },
+  {
+    "specimen_collection_date": "2020-05-19T00:00:00.000",
+    "new_cases": "30",
+    "cumulative_cases": "2297",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.042"
+  },
+  {
+    "specimen_collection_date": "2020-05-20T00:00:00.000",
+    "new_cases": "42",
+    "cumulative_cases": "2339",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.421"
+  },
+  {
+    "specimen_collection_date": "2020-05-21T00:00:00.000",
+    "new_cases": "24",
+    "cumulative_cases": "2363",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.650"
+  },
+  {
+    "specimen_collection_date": "2020-05-22T00:00:00.000",
+    "new_cases": "32",
+    "cumulative_cases": "2395",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.043"
+  },
+  {
+    "specimen_collection_date": "2020-05-23T00:00:00.000",
+    "new_cases": "17",
+    "cumulative_cases": "2412",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.422"
+  },
+  {
+    "specimen_collection_date": "2020-05-24T00:00:00.000",
+    "new_cases": "11",
+    "cumulative_cases": "2423",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.653"
+  },
+  {
+    "specimen_collection_date": "2020-05-25T00:00:00.000",
+    "new_cases": "9",
+    "cumulative_cases": "2432",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.044"
+  },
+  {
+    "specimen_collection_date": "2020-05-26T00:00:00.000",
+    "new_cases": "47",
+    "cumulative_cases": "2479",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.423"
+  },
+  {
+    "specimen_collection_date": "2020-05-27T00:00:00.000",
+    "new_cases": "34",
+    "cumulative_cases": "2513",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.655"
+  },
+  {
+    "specimen_collection_date": "2020-05-28T00:00:00.000",
+    "new_cases": "23",
+    "cumulative_cases": "2536",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.049"
+  },
+  {
+    "specimen_collection_date": "2020-05-29T00:00:00.000",
+    "new_cases": "30",
+    "cumulative_cases": "2566",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.424"
+  },
+  {
+    "specimen_collection_date": "2020-05-30T00:00:00.000",
+    "new_cases": "22",
+    "cumulative_cases": "2588",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.657"
+  },
+  {
+    "specimen_collection_date": "2020-05-31T00:00:00.000",
+    "new_cases": "25",
+    "cumulative_cases": "2613",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.050"
+  },
+  {
+    "specimen_collection_date": "2020-06-01T00:00:00.000",
+    "new_cases": "38",
+    "cumulative_cases": "2651",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.427"
+  },
+  {
+    "specimen_collection_date": "2020-06-02T00:00:00.000",
+    "new_cases": "45",
+    "cumulative_cases": "2696",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.660"
+  },
+  {
+    "specimen_collection_date": "2020-06-03T00:00:00.000",
+    "new_cases": "27",
+    "cumulative_cases": "2723",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.052"
+  },
+  {
+    "specimen_collection_date": "2020-06-04T00:00:00.000",
+    "new_cases": "38",
+    "cumulative_cases": "2761",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.429"
+  },
+  {
+    "specimen_collection_date": "2020-06-05T00:00:00.000",
+    "new_cases": "29",
+    "cumulative_cases": "2790",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.661"
+  },
+  {
+    "specimen_collection_date": "2020-06-06T00:00:00.000",
+    "new_cases": "14",
+    "cumulative_cases": "2804",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.054"
+  },
+  {
+    "specimen_collection_date": "2020-06-07T00:00:00.000",
+    "new_cases": "17",
+    "cumulative_cases": "2821",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.433"
+  },
+  {
+    "specimen_collection_date": "2020-06-08T00:00:00.000",
+    "new_cases": "35",
+    "cumulative_cases": "2856",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.663"
+  },
+  {
+    "specimen_collection_date": "2020-06-09T00:00:00.000",
+    "new_cases": "33",
+    "cumulative_cases": "2889",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.058"
+  },
+  {
+    "specimen_collection_date": "2020-06-10T00:00:00.000",
+    "new_cases": "19",
+    "cumulative_cases": "2908",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.435"
+  },
+  {
+    "specimen_collection_date": "2020-06-11T00:00:00.000",
+    "new_cases": "23",
+    "cumulative_cases": "2931",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.665"
+  },
+  {
+    "specimen_collection_date": "2020-06-12T00:00:00.000",
+    "new_cases": "27",
+    "cumulative_cases": "2958",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.060"
+  },
+  {
+    "specimen_collection_date": "2020-06-13T00:00:00.000",
+    "new_cases": "20",
+    "cumulative_cases": "2978",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.437"
+  },
+  {
+    "specimen_collection_date": "2020-06-14T00:00:00.000",
+    "new_cases": "15",
+    "cumulative_cases": "2993",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.666"
+  },
+  {
+    "specimen_collection_date": "2020-06-15T00:00:00.000",
+    "new_cases": "35",
+    "cumulative_cases": "3028",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.061"
+  },
+  {
+    "specimen_collection_date": "2020-06-16T00:00:00.000",
+    "new_cases": "48",
+    "cumulative_cases": "3076",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.454"
+  },
+  {
+    "specimen_collection_date": "2020-06-17T00:00:00.000",
+    "new_cases": "50",
+    "cumulative_cases": "3126",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.668"
+  },
+  {
+    "specimen_collection_date": "2020-06-18T00:00:00.000",
+    "new_cases": "45",
+    "cumulative_cases": "3171",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.063"
+  },
+  {
+    "specimen_collection_date": "2020-06-19T00:00:00.000",
+    "new_cases": "43",
+    "cumulative_cases": "3214",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.457"
+  },
+  {
+    "specimen_collection_date": "2020-06-20T00:00:00.000",
+    "new_cases": "41",
+    "cumulative_cases": "3255",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.670"
+  },
+  {
+    "specimen_collection_date": "2020-06-21T00:00:00.000",
+    "new_cases": "32",
+    "cumulative_cases": "3287",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.064"
+  },
+  {
+    "specimen_collection_date": "2020-06-22T00:00:00.000",
+    "new_cases": "105",
+    "cumulative_cases": "3392",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.459"
+  },
+  {
+    "specimen_collection_date": "2020-06-23T00:00:00.000",
+    "new_cases": "79",
+    "cumulative_cases": "3471",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.672"
+  },
+  {
+    "specimen_collection_date": "2020-06-24T00:00:00.000",
+    "new_cases": "61",
+    "cumulative_cases": "3532",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.065"
+  },
+  {
+    "specimen_collection_date": "2020-06-25T00:00:00.000",
+    "new_cases": "66",
+    "cumulative_cases": "3598",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.463"
+  },
+  {
+    "specimen_collection_date": "2020-06-26T00:00:00.000",
+    "new_cases": "69",
+    "cumulative_cases": "3667",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.673"
+  },
+  {
+    "specimen_collection_date": "2020-06-27T00:00:00.000",
+    "new_cases": "51",
+    "cumulative_cases": "3718",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.067"
+  },
+  {
+    "specimen_collection_date": "2020-06-28T00:00:00.000",
+    "new_cases": "36",
+    "cumulative_cases": "3754",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.465"
+  },
+  {
+    "specimen_collection_date": "2020-06-29T00:00:00.000",
+    "new_cases": "72",
+    "cumulative_cases": "3826",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.675"
+  },
+  {
+    "specimen_collection_date": "2020-06-30T00:00:00.000",
+    "new_cases": "98",
+    "cumulative_cases": "3924",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.068"
+  },
+  {
+    "specimen_collection_date": "2020-07-01T00:00:00.000",
+    "new_cases": "79",
+    "cumulative_cases": "4003",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.466"
+  },
+  {
+    "specimen_collection_date": "2020-07-02T00:00:00.000",
+    "new_cases": "103",
+    "cumulative_cases": "4106",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.677"
+  },
+  {
+    "specimen_collection_date": "2020-07-03T00:00:00.000",
+    "new_cases": "79",
+    "cumulative_cases": "4185",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.070"
+  },
+  {
+    "specimen_collection_date": "2020-07-04T00:00:00.000",
+    "new_cases": "27",
+    "cumulative_cases": "4212",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.470"
+  },
+  {
+    "specimen_collection_date": "2020-07-05T00:00:00.000",
+    "new_cases": "50",
+    "cumulative_cases": "4262",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.679"
+  },
+  {
+    "specimen_collection_date": "2020-07-06T00:00:00.000",
+    "new_cases": "86",
+    "cumulative_cases": "4348",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.071"
+  },
+  {
+    "specimen_collection_date": "2020-07-07T00:00:00.000",
+    "new_cases": "100",
+    "cumulative_cases": "4448",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.472"
+  },
+  {
+    "specimen_collection_date": "2020-07-08T00:00:00.000",
+    "new_cases": "111",
+    "cumulative_cases": "4559",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.681"
+  },
+  {
+    "specimen_collection_date": "2020-07-09T00:00:00.000",
+    "new_cases": "107",
+    "cumulative_cases": "4666",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.072"
+  },
+  {
+    "specimen_collection_date": "2020-07-10T00:00:00.000",
+    "new_cases": "127",
+    "cumulative_cases": "4793",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.476"
+  },
+  {
+    "specimen_collection_date": "2020-07-11T00:00:00.000",
+    "new_cases": "67",
+    "cumulative_cases": "4860",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.683"
+  },
+  {
+    "specimen_collection_date": "2020-07-12T00:00:00.000",
+    "new_cases": "67",
+    "cumulative_cases": "4927",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.073"
+  },
+  {
+    "specimen_collection_date": "2020-07-13T00:00:00.000",
+    "new_cases": "139",
+    "cumulative_cases": "5066",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.478"
+  },
+  {
+    "specimen_collection_date": "2020-07-14T00:00:00.000",
+    "new_cases": "160",
+    "cumulative_cases": "5226",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.685"
+  },
+  {
+    "specimen_collection_date": "2020-07-15T00:00:00.000",
+    "new_cases": "154",
+    "cumulative_cases": "5380",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.075"
+  },
+  {
+    "specimen_collection_date": "2020-07-16T00:00:00.000",
+    "new_cases": "145",
+    "cumulative_cases": "5525",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.482"
+  },
+  {
+    "specimen_collection_date": "2020-07-17T00:00:00.000",
+    "new_cases": "154",
+    "cumulative_cases": "5679",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.686"
+  },
+  {
+    "specimen_collection_date": "2020-07-18T00:00:00.000",
+    "new_cases": "79",
+    "cumulative_cases": "5758",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.076"
+  },
+  {
+    "specimen_collection_date": "2020-07-19T00:00:00.000",
+    "new_cases": "73",
+    "cumulative_cases": "5831",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.492"
+  },
+  {
+    "specimen_collection_date": "2020-07-20T00:00:00.000",
+    "new_cases": "146",
+    "cumulative_cases": "5977",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.688"
+  },
+  {
+    "specimen_collection_date": "2020-07-21T00:00:00.000",
+    "new_cases": "128",
+    "cumulative_cases": "6105",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.078"
+  },
+  {
+    "specimen_collection_date": "2020-07-22T00:00:00.000",
+    "new_cases": "127",
+    "cumulative_cases": "6232",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.493"
+  },
+  {
+    "specimen_collection_date": "2020-07-23T00:00:00.000",
+    "new_cases": "122",
+    "cumulative_cases": "6354",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.690"
+  },
+  {
+    "specimen_collection_date": "2020-07-24T00:00:00.000",
+    "new_cases": "121",
+    "cumulative_cases": "6475",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.079"
+  },
+  {
+    "specimen_collection_date": "2020-07-25T00:00:00.000",
+    "new_cases": "77",
+    "cumulative_cases": "6552",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.494"
+  },
+  {
+    "specimen_collection_date": "2020-07-26T00:00:00.000",
+    "new_cases": "60",
+    "cumulative_cases": "6612",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.691"
+  },
+  {
+    "specimen_collection_date": "2020-07-27T00:00:00.000",
+    "new_cases": "92",
+    "cumulative_cases": "6704",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.080"
+  },
+  {
+    "specimen_collection_date": "2020-07-28T00:00:00.000",
+    "new_cases": "96",
+    "cumulative_cases": "6800",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.496"
+  },
+  {
+    "specimen_collection_date": "2020-07-29T00:00:00.000",
+    "new_cases": "137",
+    "cumulative_cases": "6937",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.693"
+  },
+  {
+    "specimen_collection_date": "2020-07-30T00:00:00.000",
+    "new_cases": "126",
+    "cumulative_cases": "7063",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.082"
+  },
+  {
+    "specimen_collection_date": "2020-07-31T00:00:00.000",
+    "new_cases": "114",
+    "cumulative_cases": "7177",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.497"
+  },
+  {
+    "specimen_collection_date": "2020-08-01T00:00:00.000",
+    "new_cases": "66",
+    "cumulative_cases": "7243",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.694"
+  },
+  {
+    "specimen_collection_date": "2020-08-02T00:00:00.000",
+    "new_cases": "45",
+    "cumulative_cases": "7288",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.083"
+  },
+  {
+    "specimen_collection_date": "2020-08-03T00:00:00.000",
+    "new_cases": "103",
+    "cumulative_cases": "7391",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.499"
+  },
+  {
+    "specimen_collection_date": "2020-08-04T00:00:00.000",
+    "new_cases": "83",
+    "cumulative_cases": "7474",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.696"
+  },
+  {
+    "specimen_collection_date": "2020-08-05T00:00:00.000",
+    "new_cases": "132",
+    "cumulative_cases": "7606",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.084"
+  },
+  {
+    "specimen_collection_date": "2020-08-06T00:00:00.000",
+    "new_cases": "100",
+    "cumulative_cases": "7706",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.501"
+  },
+  {
+    "specimen_collection_date": "2020-08-07T00:00:00.000",
+    "new_cases": "130",
+    "cumulative_cases": "7836",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.698"
+  },
+  {
+    "specimen_collection_date": "2020-08-08T00:00:00.000",
+    "new_cases": "60",
+    "cumulative_cases": "7896",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.086"
+  },
+  {
+    "specimen_collection_date": "2020-08-09T00:00:00.000",
+    "new_cases": "60",
+    "cumulative_cases": "7956",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.502"
+  },
+  {
+    "specimen_collection_date": "2020-08-10T00:00:00.000",
+    "new_cases": "103",
+    "cumulative_cases": "8059",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.699"
+  },
+  {
+    "specimen_collection_date": "2020-08-11T00:00:00.000",
+    "new_cases": "105",
+    "cumulative_cases": "8164",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.087"
+  },
+  {
+    "specimen_collection_date": "2020-08-12T00:00:00.000",
+    "new_cases": "132",
+    "cumulative_cases": "8296",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.506"
+  },
+  {
+    "specimen_collection_date": "2020-08-13T00:00:00.000",
+    "new_cases": "103",
+    "cumulative_cases": "8399",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.701"
+  },
+  {
+    "specimen_collection_date": "2020-08-14T00:00:00.000",
+    "new_cases": "108",
+    "cumulative_cases": "8507",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.088"
+  },
+  {
+    "specimen_collection_date": "2020-08-15T00:00:00.000",
+    "new_cases": "66",
+    "cumulative_cases": "8573",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.509"
+  },
+  {
+    "specimen_collection_date": "2020-08-16T00:00:00.000",
+    "new_cases": "37",
+    "cumulative_cases": "8610",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.703"
+  },
+  {
+    "specimen_collection_date": "2020-08-17T00:00:00.000",
+    "new_cases": "80",
+    "cumulative_cases": "8690",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.090"
+  },
+  {
+    "specimen_collection_date": "2020-08-18T00:00:00.000",
+    "new_cases": "81",
+    "cumulative_cases": "8771",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.512"
+  },
+  {
+    "specimen_collection_date": "2020-08-19T00:00:00.000",
+    "new_cases": "97",
+    "cumulative_cases": "8868",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.704"
+  },
+  {
+    "specimen_collection_date": "2020-08-20T00:00:00.000",
+    "new_cases": "85",
+    "cumulative_cases": "8953",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.091"
+  },
+  {
+    "specimen_collection_date": "2020-08-21T00:00:00.000",
+    "new_cases": "77",
+    "cumulative_cases": "9030",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.515"
+  },
+  {
+    "specimen_collection_date": "2020-08-22T00:00:00.000",
+    "new_cases": "43",
+    "cumulative_cases": "9073",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.706"
+  },
+  {
+    "specimen_collection_date": "2020-08-23T00:00:00.000",
+    "new_cases": "41",
+    "cumulative_cases": "9114",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.092"
+  },
+  {
+    "specimen_collection_date": "2020-08-24T00:00:00.000",
+    "new_cases": "92",
+    "cumulative_cases": "9206",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.516"
+  },
+  {
+    "specimen_collection_date": "2020-08-25T00:00:00.000",
+    "new_cases": "79",
+    "cumulative_cases": "9285",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.707"
+  },
+  {
+    "specimen_collection_date": "2020-08-26T00:00:00.000",
+    "new_cases": "89",
+    "cumulative_cases": "9374",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.094"
+  },
+  {
+    "specimen_collection_date": "2020-08-27T00:00:00.000",
+    "new_cases": "98",
+    "cumulative_cases": "9472",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.518"
+  },
+  {
+    "specimen_collection_date": "2020-08-28T00:00:00.000",
+    "new_cases": "65",
+    "cumulative_cases": "9537",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.709"
+  },
+  {
+    "specimen_collection_date": "2020-08-29T00:00:00.000",
+    "new_cases": "46",
+    "cumulative_cases": "9583",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.095"
+  },
+  {
+    "specimen_collection_date": "2020-08-30T00:00:00.000",
+    "new_cases": "33",
+    "cumulative_cases": "9616",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.519"
+  },
+  {
+    "specimen_collection_date": "2020-08-31T00:00:00.000",
+    "new_cases": "84",
+    "cumulative_cases": "9700",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.711"
+  },
+  {
+    "specimen_collection_date": "2020-09-01T00:00:00.000",
+    "new_cases": "83",
+    "cumulative_cases": "9783",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.096"
+  },
+  {
+    "specimen_collection_date": "2020-09-02T00:00:00.000",
+    "new_cases": "83",
+    "cumulative_cases": "9866",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.521"
+  },
+  {
+    "specimen_collection_date": "2020-09-03T00:00:00.000",
+    "new_cases": "92",
+    "cumulative_cases": "9958",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.712"
+  },
+  {
+    "specimen_collection_date": "2020-09-04T00:00:00.000",
+    "new_cases": "77",
+    "cumulative_cases": "10035",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.098"
+  },
+  {
+    "specimen_collection_date": "2020-09-05T00:00:00.000",
+    "new_cases": "37",
+    "cumulative_cases": "10072",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.522"
+  },
+  {
+    "specimen_collection_date": "2020-09-06T00:00:00.000",
+    "new_cases": "25",
+    "cumulative_cases": "10097",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.714"
+  },
+  {
+    "specimen_collection_date": "2020-09-07T00:00:00.000",
+    "new_cases": "49",
+    "cumulative_cases": "10146",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.099"
+  },
+  {
+    "specimen_collection_date": "2020-09-08T00:00:00.000",
+    "new_cases": "68",
+    "cumulative_cases": "10214",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.523"
+  },
+  {
+    "specimen_collection_date": "2020-09-09T00:00:00.000",
+    "new_cases": "70",
+    "cumulative_cases": "10284",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.717"
+  },
+  {
+    "specimen_collection_date": "2020-09-10T00:00:00.000",
+    "new_cases": "52",
+    "cumulative_cases": "10336",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.100"
+  },
+  {
+    "specimen_collection_date": "2020-09-11T00:00:00.000",
+    "new_cases": "91",
+    "cumulative_cases": "10427",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.525"
+  },
+  {
+    "specimen_collection_date": "2020-09-12T00:00:00.000",
+    "new_cases": "43",
+    "cumulative_cases": "10470",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.718"
+  },
+  {
+    "specimen_collection_date": "2020-09-13T00:00:00.000",
+    "new_cases": "21",
+    "cumulative_cases": "10491",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.102"
+  },
+  {
+    "specimen_collection_date": "2020-09-14T00:00:00.000",
+    "new_cases": "95",
+    "cumulative_cases": "10586",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.526"
+  },
+  {
+    "specimen_collection_date": "2020-09-15T00:00:00.000",
+    "new_cases": "83",
+    "cumulative_cases": "10669",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.720"
+  },
+  {
+    "specimen_collection_date": "2020-09-16T00:00:00.000",
+    "new_cases": "71",
+    "cumulative_cases": "10740",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.103"
+  },
+  {
+    "specimen_collection_date": "2020-09-17T00:00:00.000",
+    "new_cases": "52",
+    "cumulative_cases": "10792",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.528"
+  },
+  {
+    "specimen_collection_date": "2020-09-18T00:00:00.000",
+    "new_cases": "88",
+    "cumulative_cases": "10880",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.721"
+  },
+  {
+    "specimen_collection_date": "2020-09-19T00:00:00.000",
+    "new_cases": "38",
+    "cumulative_cases": "10918",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.104"
+  },
+  {
+    "specimen_collection_date": "2020-09-20T00:00:00.000",
+    "new_cases": "18",
+    "cumulative_cases": "10936",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.529"
+  },
+  {
+    "specimen_collection_date": "2020-09-21T00:00:00.000",
+    "new_cases": "53",
+    "cumulative_cases": "10989",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.723"
+  },
+  {
+    "specimen_collection_date": "2020-09-22T00:00:00.000",
+    "new_cases": "52",
+    "cumulative_cases": "11041",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.106"
+  },
+  {
+    "specimen_collection_date": "2020-09-23T00:00:00.000",
+    "new_cases": "65",
+    "cumulative_cases": "11106",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.530"
+  },
+  {
+    "specimen_collection_date": "2020-09-24T00:00:00.000",
+    "new_cases": "75",
+    "cumulative_cases": "11181",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.725"
+  },
+  {
+    "specimen_collection_date": "2020-09-25T00:00:00.000",
+    "new_cases": "53",
+    "cumulative_cases": "11234",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.107"
+  },
+  {
+    "specimen_collection_date": "2020-09-26T00:00:00.000",
+    "new_cases": "20",
+    "cumulative_cases": "11254",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.532"
+  },
+  {
+    "specimen_collection_date": "2020-09-27T00:00:00.000",
+    "new_cases": "30",
+    "cumulative_cases": "11284",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.726"
+  },
+  {
+    "specimen_collection_date": "2020-09-28T00:00:00.000",
+    "new_cases": "51",
+    "cumulative_cases": "11335",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.109"
+  },
+  {
+    "specimen_collection_date": "2020-09-29T00:00:00.000",
+    "new_cases": "44",
+    "cumulative_cases": "11379",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.533"
+  },
+  {
+    "specimen_collection_date": "2020-09-30T00:00:00.000",
+    "new_cases": "50",
+    "cumulative_cases": "11429",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.728"
+  },
+  {
+    "specimen_collection_date": "2020-10-01T00:00:00.000",
+    "new_cases": "42",
+    "cumulative_cases": "11471",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.110"
+  },
+  {
+    "specimen_collection_date": "2020-10-02T00:00:00.000",
+    "new_cases": "23",
+    "cumulative_cases": "11494",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.534"
+  },
+  {
+    "specimen_collection_date": "2020-10-03T00:00:00.000",
+    "new_cases": "19",
+    "cumulative_cases": "11513",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.729"
+  },
+  {
+    "specimen_collection_date": "2020-10-04T00:00:00.000",
+    "new_cases": "14",
+    "cumulative_cases": "11527",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.111"
+  },
+  {
+    "specimen_collection_date": "2020-10-05T00:00:00.000",
+    "new_cases": "25",
+    "cumulative_cases": "11552",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.536"
+  },
+  {
+    "specimen_collection_date": "2020-10-06T00:00:00.000",
+    "new_cases": "37",
+    "cumulative_cases": "11589",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.732"
+  },
+  {
+    "specimen_collection_date": "2020-10-07T00:00:00.000",
+    "new_cases": "35",
+    "cumulative_cases": "11624",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.113"
+  },
+  {
+    "specimen_collection_date": "2020-10-08T00:00:00.000",
+    "new_cases": "38",
+    "cumulative_cases": "11662",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.537"
+  },
+  {
+    "specimen_collection_date": "2020-10-09T00:00:00.000",
+    "new_cases": "36",
+    "cumulative_cases": "11698",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.735"
+  },
+  {
+    "specimen_collection_date": "2020-10-10T00:00:00.000",
+    "new_cases": "19",
+    "cumulative_cases": "11717",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.114"
+  },
+  {
+    "specimen_collection_date": "2020-10-11T00:00:00.000",
+    "new_cases": "16",
+    "cumulative_cases": "11733",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.538"
+  },
+  {
+    "specimen_collection_date": "2020-10-12T00:00:00.000",
+    "new_cases": "34",
+    "cumulative_cases": "11767",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.737"
+  },
+  {
+    "specimen_collection_date": "2020-10-13T00:00:00.000",
+    "new_cases": "42",
+    "cumulative_cases": "11809",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.115"
+  },
+  {
+    "specimen_collection_date": "2020-10-14T00:00:00.000",
+    "new_cases": "32",
+    "cumulative_cases": "11841",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.540"
+  },
+  {
+    "specimen_collection_date": "2020-10-15T00:00:00.000",
+    "new_cases": "40",
+    "cumulative_cases": "11881",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.741"
+  },
+  {
+    "specimen_collection_date": "2020-10-16T00:00:00.000",
+    "new_cases": "39",
+    "cumulative_cases": "11920",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.117"
+  },
+  {
+    "specimen_collection_date": "2020-10-17T00:00:00.000",
+    "new_cases": "23",
+    "cumulative_cases": "11943",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.541"
+  },
+  {
+    "specimen_collection_date": "2020-10-18T00:00:00.000",
+    "new_cases": "10",
+    "cumulative_cases": "11953",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.742"
+  },
+  {
+    "specimen_collection_date": "2020-10-19T00:00:00.000",
+    "new_cases": "39",
+    "cumulative_cases": "11992",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.118"
+  },
+  {
+    "specimen_collection_date": "2020-10-20T00:00:00.000",
+    "new_cases": "42",
+    "cumulative_cases": "12034",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.543"
+  },
+  {
+    "specimen_collection_date": "2020-10-21T00:00:00.000",
+    "new_cases": "29",
+    "cumulative_cases": "12063",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.744"
+  },
+  {
+    "specimen_collection_date": "2020-10-22T00:00:00.000",
+    "new_cases": "56",
+    "cumulative_cases": "12119",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.119"
+  },
+  {
+    "specimen_collection_date": "2020-10-23T00:00:00.000",
+    "new_cases": "53",
+    "cumulative_cases": "12172",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.544"
+  },
+  {
+    "specimen_collection_date": "2020-10-24T00:00:00.000",
+    "new_cases": "32",
+    "cumulative_cases": "12204",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.745"
+  },
+  {
+    "specimen_collection_date": "2020-10-25T00:00:00.000",
+    "new_cases": "33",
+    "cumulative_cases": "12237",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.121"
+  },
+  {
+    "specimen_collection_date": "2020-10-26T00:00:00.000",
+    "new_cases": "49",
+    "cumulative_cases": "12286",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.546"
+  },
+  {
+    "specimen_collection_date": "2020-10-27T00:00:00.000",
+    "new_cases": "74",
+    "cumulative_cases": "12360",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.747"
+  },
+  {
+    "specimen_collection_date": "2020-10-28T00:00:00.000",
+    "new_cases": "63",
+    "cumulative_cases": "12423",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.122"
+  },
+  {
+    "specimen_collection_date": "2020-10-29T00:00:00.000",
+    "new_cases": "50",
+    "cumulative_cases": "12473",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.548"
+  },
+  {
+    "specimen_collection_date": "2020-10-30T00:00:00.000",
+    "new_cases": "58",
+    "cumulative_cases": "12531",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.748"
+  },
+  {
+    "specimen_collection_date": "2020-10-31T00:00:00.000",
+    "new_cases": "50",
+    "cumulative_cases": "12581",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.123"
+  },
+  {
+    "specimen_collection_date": "2020-11-01T00:00:00.000",
+    "new_cases": "34",
+    "cumulative_cases": "12615",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.550"
+  },
+  {
+    "specimen_collection_date": "2020-11-02T00:00:00.000",
+    "new_cases": "97",
+    "cumulative_cases": "12712",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.750"
+  },
+  {
+    "specimen_collection_date": "2020-11-03T00:00:00.000",
+    "new_cases": "98",
+    "cumulative_cases": "12810",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.125"
+  },
+  {
+    "specimen_collection_date": "2020-11-04T00:00:00.000",
+    "new_cases": "125",
+    "cumulative_cases": "12935",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.551"
+  },
+  {
+    "specimen_collection_date": "2020-11-05T00:00:00.000",
+    "new_cases": "123",
+    "cumulative_cases": "13058",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.751"
+  },
+  {
+    "specimen_collection_date": "2020-11-06T00:00:00.000",
+    "new_cases": "110",
+    "cumulative_cases": "13168",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.126"
+  },
+  {
+    "specimen_collection_date": "2020-11-07T00:00:00.000",
+    "new_cases": "66",
+    "cumulative_cases": "13234",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.555"
+  },
+  {
+    "specimen_collection_date": "2020-11-08T00:00:00.000",
+    "new_cases": "29",
+    "cumulative_cases": "13263",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.753"
+  },
+  {
+    "specimen_collection_date": "2020-11-09T00:00:00.000",
+    "new_cases": "126",
+    "cumulative_cases": "13389",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.127"
+  },
+  {
+    "specimen_collection_date": "2020-11-10T00:00:00.000",
+    "new_cases": "114",
+    "cumulative_cases": "13503",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.557"
+  },
+  {
+    "specimen_collection_date": "2020-11-11T00:00:00.000",
+    "new_cases": "107",
+    "cumulative_cases": "13610",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.755"
+  },
+  {
+    "specimen_collection_date": "2020-11-12T00:00:00.000",
+    "new_cases": "143",
+    "cumulative_cases": "13753",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.129"
+  },
+  {
+    "specimen_collection_date": "2020-11-13T00:00:00.000",
+    "new_cases": "108",
+    "cumulative_cases": "13861",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.559"
+  },
+  {
+    "specimen_collection_date": "2020-11-14T00:00:00.000",
+    "new_cases": "75",
+    "cumulative_cases": "13936",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.757"
+  },
+  {
+    "specimen_collection_date": "2020-11-15T00:00:00.000",
+    "new_cases": "63",
+    "cumulative_cases": "13999",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.130"
+  },
+  {
+    "specimen_collection_date": "2020-11-16T00:00:00.000",
+    "new_cases": "168",
+    "cumulative_cases": "14167",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.561"
+  },
+  {
+    "specimen_collection_date": "2020-11-17T00:00:00.000",
+    "new_cases": "144",
+    "cumulative_cases": "14311",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.759"
+  },
+  {
+    "specimen_collection_date": "2020-11-18T00:00:00.000",
+    "new_cases": "182",
+    "cumulative_cases": "14493",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.131"
+  },
+  {
+    "specimen_collection_date": "2020-11-19T00:00:00.000",
+    "new_cases": "170",
+    "cumulative_cases": "14663",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.563"
+  },
+  {
+    "specimen_collection_date": "2020-11-20T00:00:00.000",
+    "new_cases": "166",
+    "cumulative_cases": "14829",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.761"
+  },
+  {
+    "specimen_collection_date": "2020-11-21T00:00:00.000",
+    "new_cases": "92",
+    "cumulative_cases": "14921",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.133"
+  },
+  {
+    "specimen_collection_date": "2020-11-22T00:00:00.000",
+    "new_cases": "81",
+    "cumulative_cases": "15002",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.564"
+  },
+  {
+    "specimen_collection_date": "2020-11-23T00:00:00.000",
+    "new_cases": "179",
+    "cumulative_cases": "15181",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.763"
+  },
+  {
+    "specimen_collection_date": "2020-11-24T00:00:00.000",
+    "new_cases": "194",
+    "cumulative_cases": "15375",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.134"
+  },
+  {
+    "specimen_collection_date": "2020-11-25T00:00:00.000",
+    "new_cases": "164",
+    "cumulative_cases": "15539",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.565"
+  },
+  {
+    "specimen_collection_date": "2020-11-26T00:00:00.000",
+    "new_cases": "54",
+    "cumulative_cases": "15593",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.770"
+  },
+  {
+    "specimen_collection_date": "2020-11-27T00:00:00.000",
+    "new_cases": "125",
+    "cumulative_cases": "15718",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.135"
+  },
+  {
+    "specimen_collection_date": "2020-11-28T00:00:00.000",
+    "new_cases": "105",
+    "cumulative_cases": "15823",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.567"
+  },
+  {
+    "specimen_collection_date": "2020-11-29T00:00:00.000",
+    "new_cases": "132",
+    "cumulative_cases": "15955",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.772"
+  },
+  {
+    "specimen_collection_date": "2020-11-30T00:00:00.000",
+    "new_cases": "271",
+    "cumulative_cases": "16226",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.137"
+  },
+  {
+    "specimen_collection_date": "2020-12-01T00:00:00.000",
+    "new_cases": "306",
+    "cumulative_cases": "16532",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.568"
+  },
+  {
+    "specimen_collection_date": "2020-12-02T00:00:00.000",
+    "new_cases": "300",
+    "cumulative_cases": "16832",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.774"
+  },
+  {
+    "specimen_collection_date": "2020-12-03T00:00:00.000",
+    "new_cases": "288",
+    "cumulative_cases": "17120",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.138"
+  },
+  {
+    "specimen_collection_date": "2020-12-04T00:00:00.000",
+    "new_cases": "236",
+    "cumulative_cases": "17356",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.569"
+  },
+  {
+    "specimen_collection_date": "2020-12-05T00:00:00.000",
+    "new_cases": "144",
+    "cumulative_cases": "17500",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.786"
+  },
+  {
+    "specimen_collection_date": "2020-12-06T00:00:00.000",
+    "new_cases": "115",
+    "cumulative_cases": "17615",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.139"
+  },
+  {
+    "specimen_collection_date": "2020-12-07T00:00:00.000",
+    "new_cases": "324",
+    "cumulative_cases": "17939",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.571"
+  },
+  {
+    "specimen_collection_date": "2020-12-08T00:00:00.000",
+    "new_cases": "310",
+    "cumulative_cases": "18249",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.788"
+  },
+  {
+    "specimen_collection_date": "2020-12-09T00:00:00.000",
+    "new_cases": "309",
+    "cumulative_cases": "18558",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.141"
+  },
+  {
+    "specimen_collection_date": "2020-12-10T00:00:00.000",
+    "new_cases": "317",
+    "cumulative_cases": "18875",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.572"
+  },
+  {
+    "specimen_collection_date": "2020-12-11T00:00:00.000",
+    "new_cases": "317",
+    "cumulative_cases": "19192",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.789"
+  },
+  {
+    "specimen_collection_date": "2020-12-12T00:00:00.000",
+    "new_cases": "201",
+    "cumulative_cases": "19393",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.142"
+  },
+  {
+    "specimen_collection_date": "2020-12-13T00:00:00.000",
+    "new_cases": "127",
+    "cumulative_cases": "19520",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.573"
+  },
+  {
+    "specimen_collection_date": "2020-12-14T00:00:00.000",
+    "new_cases": "370",
+    "cumulative_cases": "19890",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.791"
+  },
+  {
+    "specimen_collection_date": "2020-12-15T00:00:00.000",
+    "new_cases": "384",
+    "cumulative_cases": "20274",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.143"
+  },
+  {
+    "specimen_collection_date": "2020-12-16T00:00:00.000",
+    "new_cases": "345",
+    "cumulative_cases": "20619",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.575"
+  },
+  {
+    "specimen_collection_date": "2020-12-17T00:00:00.000",
+    "new_cases": "308",
+    "cumulative_cases": "20927",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.792"
+  },
+  {
+    "specimen_collection_date": "2020-12-18T00:00:00.000",
+    "new_cases": "298",
+    "cumulative_cases": "21225",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.145"
+  },
+  {
+    "specimen_collection_date": "2020-12-19T00:00:00.000",
+    "new_cases": "126",
+    "cumulative_cases": "21351",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.576"
+  },
+  {
+    "specimen_collection_date": "2020-12-20T00:00:00.000",
+    "new_cases": "104",
+    "cumulative_cases": "21455",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.794"
+  },
+  {
+    "specimen_collection_date": "2020-12-21T00:00:00.000",
+    "new_cases": "325",
+    "cumulative_cases": "21780",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.146"
+  },
+  {
+    "specimen_collection_date": "2020-12-22T00:00:00.000",
+    "new_cases": "331",
+    "cumulative_cases": "22111",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.579"
+  },
+  {
+    "specimen_collection_date": "2020-12-23T00:00:00.000",
+    "new_cases": "290",
+    "cumulative_cases": "22401",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.795"
+  },
+  {
+    "specimen_collection_date": "2020-12-24T00:00:00.000",
+    "new_cases": "233",
+    "cumulative_cases": "22634",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.147"
+  },
+  {
+    "specimen_collection_date": "2020-12-25T00:00:00.000",
+    "new_cases": "70",
+    "cumulative_cases": "22704",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.581"
+  },
+  {
+    "specimen_collection_date": "2020-12-26T00:00:00.000",
+    "new_cases": "221",
+    "cumulative_cases": "22925",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.797"
+  },
+  {
+    "specimen_collection_date": "2020-12-27T00:00:00.000",
+    "new_cases": "151",
+    "cumulative_cases": "23076",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.148"
+  },
+  {
+    "specimen_collection_date": "2020-12-28T00:00:00.000",
+    "new_cases": "397",
+    "cumulative_cases": "23473",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.583"
+  },
+  {
+    "specimen_collection_date": "2020-12-29T00:00:00.000",
+    "new_cases": "439",
+    "cumulative_cases": "23912",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.798"
+  },
+  {
+    "specimen_collection_date": "2020-12-30T00:00:00.000",
+    "new_cases": "375",
+    "cumulative_cases": "24287",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.150"
+  },
+  {
+    "specimen_collection_date": "2020-12-31T00:00:00.000",
+    "new_cases": "276",
+    "cumulative_cases": "24563",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.585"
+  },
+  {
+    "specimen_collection_date": "2021-01-01T00:00:00.000",
+    "new_cases": "66",
+    "cumulative_cases": "24629",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.800"
+  },
+  {
+    "specimen_collection_date": "2021-01-02T00:00:00.000",
+    "new_cases": "240",
+    "cumulative_cases": "24869",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.151"
+  },
+  {
+    "specimen_collection_date": "2021-01-03T00:00:00.000",
+    "new_cases": "172",
+    "cumulative_cases": "25041",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.587"
+  },
+  {
+    "specimen_collection_date": "2021-01-04T00:00:00.000",
+    "new_cases": "558",
+    "cumulative_cases": "25599",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.802"
+  },
+  {
+    "specimen_collection_date": "2021-01-05T00:00:00.000",
+    "new_cases": "445",
+    "cumulative_cases": "26044",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.152"
+  },
+  {
+    "specimen_collection_date": "2021-01-06T00:00:00.000",
+    "new_cases": "390",
+    "cumulative_cases": "26434",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.589"
+  },
+  {
+    "specimen_collection_date": "2021-01-07T00:00:00.000",
+    "new_cases": "443",
+    "cumulative_cases": "26877",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.803"
+  },
+  {
+    "specimen_collection_date": "2021-01-08T00:00:00.000",
+    "new_cases": "362",
+    "cumulative_cases": "27239",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.154"
+  },
+  {
+    "specimen_collection_date": "2021-01-09T00:00:00.000",
+    "new_cases": "221",
+    "cumulative_cases": "27460",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.591"
+  },
+  {
+    "specimen_collection_date": "2021-01-10T00:00:00.000",
+    "new_cases": "117",
+    "cumulative_cases": "27577",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.805"
+  },
+  {
+    "specimen_collection_date": "2021-01-11T00:00:00.000",
+    "new_cases": "425",
+    "cumulative_cases": "28002",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.155"
+  },
+  {
+    "specimen_collection_date": "2021-01-12T00:00:00.000",
+    "new_cases": "293",
+    "cumulative_cases": "28295",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.592"
+  },
+  {
+    "specimen_collection_date": "2021-01-13T00:00:00.000",
+    "new_cases": "313",
+    "cumulative_cases": "28608",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.806"
+  },
+  {
+    "specimen_collection_date": "2021-01-14T00:00:00.000",
+    "new_cases": "319",
+    "cumulative_cases": "28927",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.156"
+  },
+  {
+    "specimen_collection_date": "2021-01-15T00:00:00.000",
+    "new_cases": "301",
+    "cumulative_cases": "29228",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.594"
+  },
+  {
+    "specimen_collection_date": "2021-01-16T00:00:00.000",
+    "new_cases": "156",
+    "cumulative_cases": "29384",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.808"
+  },
+  {
+    "specimen_collection_date": "2021-01-17T00:00:00.000",
+    "new_cases": "113",
+    "cumulative_cases": "29497",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.158"
+  },
+  {
+    "specimen_collection_date": "2021-01-18T00:00:00.000",
+    "new_cases": "177",
+    "cumulative_cases": "29674",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.596"
+  },
+  {
+    "specimen_collection_date": "2021-01-19T00:00:00.000",
+    "new_cases": "215",
+    "cumulative_cases": "29889",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.809"
+  },
+  {
+    "specimen_collection_date": "2021-01-20T00:00:00.000",
+    "new_cases": "226",
+    "cumulative_cases": "30115",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.159"
+  },
+  {
+    "specimen_collection_date": "2021-01-21T00:00:00.000",
+    "new_cases": "217",
+    "cumulative_cases": "30332",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.597"
+  },
+  {
+    "specimen_collection_date": "2021-01-22T00:00:00.000",
+    "new_cases": "207",
+    "cumulative_cases": "30539",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.811"
+  },
+  {
+    "specimen_collection_date": "2021-01-23T00:00:00.000",
+    "new_cases": "108",
+    "cumulative_cases": "30647",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.160"
+  },
+  {
+    "specimen_collection_date": "2021-01-24T00:00:00.000",
+    "new_cases": "93",
+    "cumulative_cases": "30740",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.599"
+  },
+  {
+    "specimen_collection_date": "2021-01-25T00:00:00.000",
+    "new_cases": "197",
+    "cumulative_cases": "30937",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.812"
+  },
+  {
+    "specimen_collection_date": "2021-01-26T00:00:00.000",
+    "new_cases": "146",
+    "cumulative_cases": "31083",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.162"
+  },
+  {
+    "specimen_collection_date": "2021-01-27T00:00:00.000",
+    "new_cases": "142",
+    "cumulative_cases": "31225",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.601"
+  },
+  {
+    "specimen_collection_date": "2021-01-28T00:00:00.000",
+    "new_cases": "148",
+    "cumulative_cases": "31373",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.814"
+  },
+  {
+    "specimen_collection_date": "2021-01-29T00:00:00.000",
+    "new_cases": "145",
+    "cumulative_cases": "31518",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.163"
+  },
+  {
+    "specimen_collection_date": "2021-01-30T00:00:00.000",
+    "new_cases": "140",
+    "cumulative_cases": "31658",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.603"
+  },
+  {
+    "specimen_collection_date": "2021-01-31T00:00:00.000",
+    "new_cases": "89",
+    "cumulative_cases": "31747",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.815"
+  },
+  {
+    "specimen_collection_date": "2021-02-01T00:00:00.000",
+    "new_cases": "173",
+    "cumulative_cases": "31920",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.164"
+  },
+  {
+    "specimen_collection_date": "2021-02-02T00:00:00.000",
+    "new_cases": "141",
+    "cumulative_cases": "32061",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.604"
+  },
+  {
+    "specimen_collection_date": "2021-02-03T00:00:00.000",
+    "new_cases": "187",
+    "cumulative_cases": "32248",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.817"
+  },
+  {
+    "specimen_collection_date": "2021-02-04T00:00:00.000",
+    "new_cases": "173",
+    "cumulative_cases": "32421",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.166"
+  },
+  {
+    "specimen_collection_date": "2021-02-05T00:00:00.000",
+    "new_cases": "150",
+    "cumulative_cases": "32571",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.605"
+  },
+  {
+    "specimen_collection_date": "2021-02-06T00:00:00.000",
+    "new_cases": "83",
+    "cumulative_cases": "32654",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.818"
+  },
+  {
+    "specimen_collection_date": "2021-02-07T00:00:00.000",
+    "new_cases": "66",
+    "cumulative_cases": "32720",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.167"
+  },
+  {
+    "specimen_collection_date": "2021-02-08T00:00:00.000",
+    "new_cases": "123",
+    "cumulative_cases": "32843",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.607"
+  },
+  {
+    "specimen_collection_date": "2021-02-09T00:00:00.000",
+    "new_cases": "107",
+    "cumulative_cases": "32950",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.819"
+  },
+  {
+    "specimen_collection_date": "2021-02-10T00:00:00.000",
+    "new_cases": "112",
+    "cumulative_cases": "33062",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.168"
+  },
+  {
+    "specimen_collection_date": "2021-02-11T00:00:00.000",
+    "new_cases": "111",
+    "cumulative_cases": "33173",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.608"
+  },
+  {
+    "specimen_collection_date": "2021-02-12T00:00:00.000",
+    "new_cases": "91",
+    "cumulative_cases": "33264",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.821"
+  },
+  {
+    "specimen_collection_date": "2021-02-13T00:00:00.000",
+    "new_cases": "46",
+    "cumulative_cases": "33310",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.170"
+  },
+  {
+    "specimen_collection_date": "2021-02-14T00:00:00.000",
+    "new_cases": "42",
+    "cumulative_cases": "33352",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.610"
+  },
+  {
+    "specimen_collection_date": "2021-02-15T00:00:00.000",
+    "new_cases": "72",
+    "cumulative_cases": "33424",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.822"
+  },
+  {
+    "specimen_collection_date": "2021-02-16T00:00:00.000",
+    "new_cases": "84",
+    "cumulative_cases": "33508",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.171"
+  },
+  {
+    "specimen_collection_date": "2021-02-17T00:00:00.000",
+    "new_cases": "81",
+    "cumulative_cases": "33589",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.611"
+  },
+  {
+    "specimen_collection_date": "2021-02-18T00:00:00.000",
+    "new_cases": "88",
+    "cumulative_cases": "33677",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.824"
+  },
+  {
+    "specimen_collection_date": "2021-02-19T00:00:00.000",
+    "new_cases": "60",
+    "cumulative_cases": "33737",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.172"
+  },
+  {
+    "specimen_collection_date": "2021-02-20T00:00:00.000",
+    "new_cases": "45",
+    "cumulative_cases": "33782",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.613"
+  },
+  {
+    "specimen_collection_date": "2021-02-21T00:00:00.000",
+    "new_cases": "38",
+    "cumulative_cases": "33820",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.825"
+  },
+  {
+    "specimen_collection_date": "2021-02-22T00:00:00.000",
+    "new_cases": "83",
+    "cumulative_cases": "33903",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.173"
+  },
+  {
+    "specimen_collection_date": "2021-02-23T00:00:00.000",
+    "new_cases": "73",
+    "cumulative_cases": "33976",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.615"
+  },
+  {
+    "specimen_collection_date": "2021-02-24T00:00:00.000",
+    "new_cases": "57",
+    "cumulative_cases": "34033",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.826"
+  },
+  {
+    "specimen_collection_date": "2021-02-25T00:00:00.000",
+    "new_cases": "59",
+    "cumulative_cases": "34092",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.175"
+  },
+  {
+    "specimen_collection_date": "2021-02-26T00:00:00.000",
+    "new_cases": "48",
+    "cumulative_cases": "34140",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.616"
+  },
+  {
+    "specimen_collection_date": "2021-02-27T00:00:00.000",
+    "new_cases": "22",
+    "cumulative_cases": "34162",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.828"
+  },
+  {
+    "specimen_collection_date": "2021-02-28T00:00:00.000",
+    "new_cases": "28",
+    "cumulative_cases": "34190",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.176"
+  },
+  {
+    "specimen_collection_date": "2021-03-01T00:00:00.000",
+    "new_cases": "45",
+    "cumulative_cases": "34235",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.617"
+  },
+  {
+    "specimen_collection_date": "2021-03-02T00:00:00.000",
+    "new_cases": "41",
+    "cumulative_cases": "34276",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.829"
+  },
+  {
+    "specimen_collection_date": "2021-03-03T00:00:00.000",
+    "new_cases": "41",
+    "cumulative_cases": "34317",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.177"
+  },
+  {
+    "specimen_collection_date": "2021-03-04T00:00:00.000",
+    "new_cases": "33",
+    "cumulative_cases": "34350",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.619"
+  },
+  {
+    "specimen_collection_date": "2021-03-05T00:00:00.000",
+    "new_cases": "37",
+    "cumulative_cases": "34387",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.831"
+  },
+  {
+    "specimen_collection_date": "2021-03-06T00:00:00.000",
+    "new_cases": "28",
+    "cumulative_cases": "34415",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.179"
+  },
+  {
+    "specimen_collection_date": "2021-03-07T00:00:00.000",
+    "new_cases": "21",
+    "cumulative_cases": "34436",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.621"
+  },
+  {
+    "specimen_collection_date": "2021-03-08T00:00:00.000",
+    "new_cases": "38",
+    "cumulative_cases": "34474",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.832"
+  },
+  {
+    "specimen_collection_date": "2021-03-09T00:00:00.000",
+    "new_cases": "36",
+    "cumulative_cases": "34510",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.180"
+  },
+  {
+    "specimen_collection_date": "2021-03-10T00:00:00.000",
+    "new_cases": "27",
+    "cumulative_cases": "34537",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.623"
+  },
+  {
+    "specimen_collection_date": "2021-03-11T00:00:00.000",
+    "new_cases": "43",
+    "cumulative_cases": "34580",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.834"
+  },
+  {
+    "specimen_collection_date": "2021-03-12T00:00:00.000",
+    "new_cases": "47",
+    "cumulative_cases": "34627",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.181"
+  },
+  {
+    "specimen_collection_date": "2021-03-13T00:00:00.000",
+    "new_cases": "21",
+    "cumulative_cases": "34648",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.625"
+  },
+  {
+    "specimen_collection_date": "2021-03-14T00:00:00.000",
+    "new_cases": "14",
+    "cumulative_cases": "34662",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.835"
+  },
+  {
+    "specimen_collection_date": "2021-03-15T00:00:00.000",
+    "new_cases": "41",
+    "cumulative_cases": "34703",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.183"
+  },
+  {
+    "specimen_collection_date": "2021-03-16T00:00:00.000",
+    "new_cases": "26",
+    "cumulative_cases": "34729",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.627"
+  },
+  {
+    "specimen_collection_date": "2021-03-17T00:00:00.000",
+    "new_cases": "34",
+    "cumulative_cases": "34763",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.837"
+  },
+  {
+    "specimen_collection_date": "2021-03-18T00:00:00.000",
+    "new_cases": "28",
+    "cumulative_cases": "34791",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.184"
+  },
+  {
+    "specimen_collection_date": "2021-03-19T00:00:00.000",
+    "new_cases": "49",
+    "cumulative_cases": "34840",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.629"
+  },
+  {
+    "specimen_collection_date": "2021-03-20T00:00:00.000",
+    "new_cases": "34",
+    "cumulative_cases": "34874",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.838"
+  },
+  {
+    "specimen_collection_date": "2021-03-21T00:00:00.000",
+    "new_cases": "18",
+    "cumulative_cases": "34892",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.185"
+  },
+  {
+    "specimen_collection_date": "2021-03-22T00:00:00.000",
+    "new_cases": "43",
+    "cumulative_cases": "34935",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.630"
+  },
+  {
+    "specimen_collection_date": "2021-03-23T00:00:00.000",
+    "new_cases": "37",
+    "cumulative_cases": "34972",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.840"
+  },
+  {
+    "specimen_collection_date": "2021-03-24T00:00:00.000",
+    "new_cases": "52",
+    "cumulative_cases": "35024",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.187"
+  },
+  {
+    "specimen_collection_date": "2021-03-25T00:00:00.000",
+    "new_cases": "45",
+    "cumulative_cases": "35069",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.632"
+  },
+  {
+    "specimen_collection_date": "2021-03-26T00:00:00.000",
+    "new_cases": "41",
+    "cumulative_cases": "35110",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.841"
+  },
+  {
+    "specimen_collection_date": "2021-03-27T00:00:00.000",
+    "new_cases": "24",
+    "cumulative_cases": "35134",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.188"
+  },
+  {
+    "specimen_collection_date": "2021-03-28T00:00:00.000",
+    "new_cases": "18",
+    "cumulative_cases": "35152",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.634"
+  },
+  {
+    "specimen_collection_date": "2021-03-29T00:00:00.000",
+    "new_cases": "52",
+    "cumulative_cases": "35204",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.842"
+  },
+  {
+    "specimen_collection_date": "2021-03-30T00:00:00.000",
+    "new_cases": "30",
+    "cumulative_cases": "35234",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.189"
+  },
+  {
+    "specimen_collection_date": "2021-03-31T00:00:00.000",
+    "new_cases": "52",
+    "cumulative_cases": "35286",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.636"
+  },
+  {
+    "specimen_collection_date": "2021-04-01T00:00:00.000",
+    "new_cases": "49",
+    "cumulative_cases": "35335",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.844"
+  },
+  {
+    "specimen_collection_date": "2021-04-02T00:00:00.000",
+    "new_cases": "24",
+    "cumulative_cases": "35359",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.191"
+  },
+  {
+    "specimen_collection_date": "2021-04-03T00:00:00.000",
+    "new_cases": "24",
+    "cumulative_cases": "35383",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.638"
+  },
+  {
+    "specimen_collection_date": "2021-04-04T00:00:00.000",
+    "new_cases": "11",
+    "cumulative_cases": "35394",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.845"
+  },
+  {
+    "specimen_collection_date": "2021-04-05T00:00:00.000",
+    "new_cases": "60",
+    "cumulative_cases": "35454",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.192"
+  },
+  {
+    "specimen_collection_date": "2021-04-06T00:00:00.000",
+    "new_cases": "34",
+    "cumulative_cases": "35488",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.639"
+  },
+  {
+    "specimen_collection_date": "2021-04-07T00:00:00.000",
+    "new_cases": "49",
+    "cumulative_cases": "35537",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.847"
+  },
+  {
+    "specimen_collection_date": "2021-04-08T00:00:00.000",
+    "new_cases": "38",
+    "cumulative_cases": "35575",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.193"
+  },
+  {
+    "specimen_collection_date": "2021-04-09T00:00:00.000",
+    "new_cases": "30",
+    "cumulative_cases": "35605",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.640"
+  },
+  {
+    "specimen_collection_date": "2021-04-10T00:00:00.000",
+    "new_cases": "32",
+    "cumulative_cases": "35637",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.848"
+  },
+  {
+    "specimen_collection_date": "2021-04-11T00:00:00.000",
+    "new_cases": "15",
+    "cumulative_cases": "35652",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.195"
+  },
+  {
+    "specimen_collection_date": "2021-04-12T00:00:00.000",
+    "new_cases": "40",
+    "cumulative_cases": "35692",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.642"
+  },
+  {
+    "specimen_collection_date": "2021-04-13T00:00:00.000",
+    "new_cases": "36",
+    "cumulative_cases": "35728",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.849"
+  },
+  {
+    "specimen_collection_date": "2021-04-14T00:00:00.000",
+    "new_cases": "42",
+    "cumulative_cases": "35770",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.196"
+  },
+  {
+    "specimen_collection_date": "2021-04-15T00:00:00.000",
+    "new_cases": "47",
+    "cumulative_cases": "35817",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.643"
+  },
+  {
+    "specimen_collection_date": "2021-04-16T00:00:00.000",
+    "new_cases": "31",
+    "cumulative_cases": "35848",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.851"
+  },
+  {
+    "specimen_collection_date": "2021-04-17T00:00:00.000",
+    "new_cases": "26",
+    "cumulative_cases": "35874",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.197"
+  },
+  {
+    "specimen_collection_date": "2021-04-18T00:00:00.000",
+    "new_cases": "14",
+    "cumulative_cases": "35888",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.644"
+  },
+  {
+    "specimen_collection_date": "2021-04-19T00:00:00.000",
+    "new_cases": "31",
+    "cumulative_cases": "35919",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.852"
+  },
+  {
+    "specimen_collection_date": "2021-04-20T00:00:00.000",
+    "new_cases": "38",
+    "cumulative_cases": "35957",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.199"
+  },
+  {
+    "specimen_collection_date": "2021-04-21T00:00:00.000",
+    "new_cases": "22",
+    "cumulative_cases": "35979",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.645"
+  },
+  {
+    "specimen_collection_date": "2021-04-22T00:00:00.000",
+    "new_cases": "27",
+    "cumulative_cases": "36006",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.853"
+  },
+  {
+    "specimen_collection_date": "2021-04-23T00:00:00.000",
+    "new_cases": "24",
+    "cumulative_cases": "36030",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.200"
+  },
+  {
+    "specimen_collection_date": "2021-04-24T00:00:00.000",
+    "new_cases": "16",
+    "cumulative_cases": "36046",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.647"
+  },
+  {
+    "specimen_collection_date": "2021-04-25T00:00:00.000",
+    "new_cases": "15",
+    "cumulative_cases": "36061",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.855"
+  },
+  {
+    "specimen_collection_date": "2021-04-26T00:00:00.000",
+    "new_cases": "40",
+    "cumulative_cases": "36101",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.201"
+  },
+  {
+    "specimen_collection_date": "2021-04-27T00:00:00.000",
+    "new_cases": "19",
+    "cumulative_cases": "36120",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.648"
+  },
+  {
+    "specimen_collection_date": "2021-04-28T00:00:00.000",
+    "new_cases": "33",
+    "cumulative_cases": "36153",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.856"
+  },
+  {
+    "specimen_collection_date": "2021-04-29T00:00:00.000",
+    "new_cases": "33",
+    "cumulative_cases": "36186",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.202"
+  },
+  {
+    "specimen_collection_date": "2021-04-30T00:00:00.000",
+    "new_cases": "32",
+    "cumulative_cases": "36218",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.649"
+  },
+  {
+    "specimen_collection_date": "2021-05-01T00:00:00.000",
+    "new_cases": "18",
+    "cumulative_cases": "36236",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.858"
+  },
+  {
+    "specimen_collection_date": "2021-05-02T00:00:00.000",
+    "new_cases": "10",
+    "cumulative_cases": "36246",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.204"
+  },
+  {
+    "specimen_collection_date": "2021-05-03T00:00:00.000",
+    "new_cases": "23",
+    "cumulative_cases": "36269",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.650"
+  },
+  {
+    "specimen_collection_date": "2021-05-04T00:00:00.000",
+    "new_cases": "31",
+    "cumulative_cases": "36300",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.859"
+  },
+  {
+    "specimen_collection_date": "2021-05-05T00:00:00.000",
+    "new_cases": "22",
+    "cumulative_cases": "36322",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.205"
+  },
+  {
+    "specimen_collection_date": "2021-05-06T00:00:00.000",
+    "new_cases": "23",
+    "cumulative_cases": "36345",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.652"
+  },
+  {
+    "specimen_collection_date": "2021-05-07T00:00:00.000",
+    "new_cases": "19",
+    "cumulative_cases": "36364",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.861"
+  },
+  {
+    "specimen_collection_date": "2021-05-08T00:00:00.000",
+    "new_cases": "15",
+    "cumulative_cases": "36379",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.206"
+  },
+  {
+    "specimen_collection_date": "2021-05-09T00:00:00.000",
+    "new_cases": "16",
+    "cumulative_cases": "36395",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.653"
+  },
+  {
+    "specimen_collection_date": "2021-05-10T00:00:00.000",
+    "new_cases": "13",
+    "cumulative_cases": "36408",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.862"
+  },
+  {
+    "specimen_collection_date": "2021-05-11T00:00:00.000",
+    "new_cases": "23",
+    "cumulative_cases": "36431",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.208"
+  },
+  {
+    "specimen_collection_date": "2021-05-12T00:00:00.000",
+    "new_cases": "19",
+    "cumulative_cases": "36450",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.654"
+  },
+  {
+    "specimen_collection_date": "2021-05-13T00:00:00.000",
+    "new_cases": "21",
+    "cumulative_cases": "36471",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.863"
+  },
+  {
+    "specimen_collection_date": "2021-05-14T00:00:00.000",
+    "new_cases": "19",
+    "cumulative_cases": "36490",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.209"
+  },
+  {
+    "specimen_collection_date": "2021-05-15T00:00:00.000",
+    "new_cases": "6",
+    "cumulative_cases": "36496",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.655"
+  },
+  {
+    "specimen_collection_date": "2021-05-16T00:00:00.000",
+    "new_cases": "12",
+    "cumulative_cases": "36508",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.865"
+  },
+  {
+    "specimen_collection_date": "2021-05-17T00:00:00.000",
+    "new_cases": "20",
+    "cumulative_cases": "36528",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.210"
+  },
+  {
+    "specimen_collection_date": "2021-05-18T00:00:00.000",
+    "new_cases": "17",
+    "cumulative_cases": "36545",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.657"
+  },
+  {
+    "specimen_collection_date": "2021-05-19T00:00:00.000",
+    "new_cases": "25",
+    "cumulative_cases": "36570",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.867"
+  },
+  {
+    "specimen_collection_date": "2021-05-20T00:00:00.000",
+    "new_cases": "21",
+    "cumulative_cases": "36591",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.211"
+  },
+  {
+    "specimen_collection_date": "2021-05-21T00:00:00.000",
+    "new_cases": "12",
+    "cumulative_cases": "36603",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.658"
+  },
+  {
+    "specimen_collection_date": "2021-05-22T00:00:00.000",
+    "new_cases": "6",
+    "cumulative_cases": "36609",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.868"
+  },
+  {
+    "specimen_collection_date": "2021-05-23T00:00:00.000",
+    "new_cases": "5",
+    "cumulative_cases": "36614",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.213"
+  },
+  {
+    "specimen_collection_date": "2021-05-24T00:00:00.000",
+    "new_cases": "16",
+    "cumulative_cases": "36630",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.659"
+  },
+  {
+    "specimen_collection_date": "2021-05-25T00:00:00.000",
+    "new_cases": "18",
+    "cumulative_cases": "36648",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.870"
+  },
+  {
+    "specimen_collection_date": "2021-05-26T00:00:00.000",
+    "new_cases": "19",
+    "cumulative_cases": "36667",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.214"
+  },
+  {
+    "specimen_collection_date": "2021-05-27T00:00:00.000",
+    "new_cases": "13",
+    "cumulative_cases": "36680",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.661"
+  },
+  {
+    "specimen_collection_date": "2021-05-28T00:00:00.000",
+    "new_cases": "9",
+    "cumulative_cases": "36689",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.871"
+  },
+  {
+    "specimen_collection_date": "2021-05-29T00:00:00.000",
+    "new_cases": "7",
+    "cumulative_cases": "36696",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.215"
+  },
+  {
+    "specimen_collection_date": "2021-05-30T00:00:00.000",
+    "new_cases": "12",
+    "cumulative_cases": "36708",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.662"
+  },
+  {
+    "specimen_collection_date": "2021-05-31T00:00:00.000",
+    "new_cases": "11",
+    "cumulative_cases": "36719",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.872"
+  },
+  {
+    "specimen_collection_date": "2021-06-01T00:00:00.000",
+    "new_cases": "25",
+    "cumulative_cases": "36744",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.217"
+  },
+  {
+    "specimen_collection_date": "2021-06-02T00:00:00.000",
+    "new_cases": "16",
+    "cumulative_cases": "36760",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.663"
+  },
+  {
+    "specimen_collection_date": "2021-06-03T00:00:00.000",
+    "new_cases": "21",
+    "cumulative_cases": "36781",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.874"
+  },
+  {
+    "specimen_collection_date": "2021-06-04T00:00:00.000",
+    "new_cases": "10",
+    "cumulative_cases": "36791",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.218"
+  },
+  {
+    "specimen_collection_date": "2021-06-05T00:00:00.000",
+    "new_cases": "8",
+    "cumulative_cases": "36799",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.664"
+  },
+  {
+    "specimen_collection_date": "2021-06-06T00:00:00.000",
+    "new_cases": "4",
+    "cumulative_cases": "36803",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.875"
+  },
+  {
+    "specimen_collection_date": "2021-06-07T00:00:00.000",
+    "new_cases": "13",
+    "cumulative_cases": "36816",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.219"
+  },
+  {
+    "specimen_collection_date": "2021-06-08T00:00:00.000",
+    "new_cases": "13",
+    "cumulative_cases": "36829",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.666"
+  },
+  {
+    "specimen_collection_date": "2021-06-09T00:00:00.000",
+    "new_cases": "11",
+    "cumulative_cases": "36840",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.876"
+  },
+  {
+    "specimen_collection_date": "2021-06-10T00:00:00.000",
+    "new_cases": "16",
+    "cumulative_cases": "36856",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.220"
+  },
+  {
+    "specimen_collection_date": "2021-06-11T00:00:00.000",
+    "new_cases": "10",
+    "cumulative_cases": "36866",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.667"
+  },
+  {
+    "specimen_collection_date": "2021-06-12T00:00:00.000",
+    "new_cases": "8",
+    "cumulative_cases": "36874",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.878"
+  },
+  {
+    "specimen_collection_date": "2021-06-13T00:00:00.000",
+    "new_cases": "4",
+    "cumulative_cases": "36878",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.222"
+  },
+  {
+    "specimen_collection_date": "2021-06-14T00:00:00.000",
+    "new_cases": "14",
+    "cumulative_cases": "36892",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.668"
+  },
+  {
+    "specimen_collection_date": "2021-06-15T00:00:00.000",
+    "new_cases": "9",
+    "cumulative_cases": "36901",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.879"
+  },
+  {
+    "specimen_collection_date": "2021-06-16T00:00:00.000",
+    "new_cases": "13",
+    "cumulative_cases": "36914",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.223"
+  },
+  {
+    "specimen_collection_date": "2021-06-17T00:00:00.000",
+    "new_cases": "17",
+    "cumulative_cases": "36931",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.669"
+  },
+  {
+    "specimen_collection_date": "2021-06-18T00:00:00.000",
+    "new_cases": "10",
+    "cumulative_cases": "36941",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.880"
+  },
+  {
+    "specimen_collection_date": "2021-06-19T00:00:00.000",
+    "new_cases": "2",
+    "cumulative_cases": "36943",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.224"
+  },
+  {
+    "specimen_collection_date": "2021-06-20T00:00:00.000",
+    "new_cases": "8",
+    "cumulative_cases": "36951",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.671"
+  },
+  {
+    "specimen_collection_date": "2021-06-21T00:00:00.000",
+    "new_cases": "21",
+    "cumulative_cases": "36972",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.882"
+  },
+  {
+    "specimen_collection_date": "2021-06-22T00:00:00.000",
+    "new_cases": "12",
+    "cumulative_cases": "36984",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.226"
+  },
+  {
+    "specimen_collection_date": "2021-06-23T00:00:00.000",
+    "new_cases": "13",
+    "cumulative_cases": "36997",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.672"
+  },
+  {
+    "specimen_collection_date": "2021-06-24T00:00:00.000",
+    "new_cases": "21",
+    "cumulative_cases": "37018",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.883"
+  },
+  {
+    "specimen_collection_date": "2021-06-25T00:00:00.000",
+    "new_cases": "11",
+    "cumulative_cases": "37029",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.227"
+  },
+  {
+    "specimen_collection_date": "2021-06-26T00:00:00.000",
+    "new_cases": "15",
+    "cumulative_cases": "37044",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.673"
+  },
+  {
+    "specimen_collection_date": "2021-06-27T00:00:00.000",
+    "new_cases": "9",
+    "cumulative_cases": "37053",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.884"
+  },
+  {
+    "specimen_collection_date": "2021-06-28T00:00:00.000",
+    "new_cases": "32",
+    "cumulative_cases": "37085",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.237"
+  },
+  {
+    "specimen_collection_date": "2021-06-29T00:00:00.000",
+    "new_cases": "42",
+    "cumulative_cases": "37127",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.674"
+  },
+  {
+    "specimen_collection_date": "2021-06-30T00:00:00.000",
+    "new_cases": "40",
+    "cumulative_cases": "37167",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.886"
+  },
+  {
+    "specimen_collection_date": "2021-07-01T00:00:00.000",
+    "new_cases": "44",
+    "cumulative_cases": "37211",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.239"
+  },
+  {
+    "specimen_collection_date": "2021-07-02T00:00:00.000",
+    "new_cases": "32",
+    "cumulative_cases": "37243",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.676"
+  },
+  {
+    "specimen_collection_date": "2021-07-03T00:00:00.000",
+    "new_cases": "37",
+    "cumulative_cases": "37280",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.887"
+  },
+  {
+    "specimen_collection_date": "2021-07-04T00:00:00.000",
+    "new_cases": "15",
+    "cumulative_cases": "37295",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.245"
+  },
+  {
+    "specimen_collection_date": "2021-07-05T00:00:00.000",
+    "new_cases": "15",
+    "cumulative_cases": "37310",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.677"
+  },
+  {
+    "specimen_collection_date": "2021-07-06T00:00:00.000",
+    "new_cases": "69",
+    "cumulative_cases": "37379",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.889"
+  },
+  {
+    "specimen_collection_date": "2021-07-07T00:00:00.000",
+    "new_cases": "87",
+    "cumulative_cases": "37466",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.251"
+  },
+  {
+    "specimen_collection_date": "2021-07-08T00:00:00.000",
+    "new_cases": "103",
+    "cumulative_cases": "37569",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.678"
+  },
+  {
+    "specimen_collection_date": "2021-07-09T00:00:00.000",
+    "new_cases": "87",
+    "cumulative_cases": "37656",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.890"
+  },
+  {
+    "specimen_collection_date": "2021-07-10T00:00:00.000",
+    "new_cases": "67",
+    "cumulative_cases": "37723",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.254"
+  },
+  {
+    "specimen_collection_date": "2021-07-11T00:00:00.000",
+    "new_cases": "58",
+    "cumulative_cases": "37781",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.679"
+  },
+  {
+    "specimen_collection_date": "2021-07-12T00:00:00.000",
+    "new_cases": "110",
+    "cumulative_cases": "37891",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.892"
+  },
+  {
+    "specimen_collection_date": "2021-07-13T00:00:00.000",
+    "new_cases": "118",
+    "cumulative_cases": "38009",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.255"
+  },
+  {
+    "specimen_collection_date": "2021-07-14T00:00:00.000",
+    "new_cases": "129",
+    "cumulative_cases": "38138",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.681"
+  },
+  {
+    "specimen_collection_date": "2021-07-15T00:00:00.000",
+    "new_cases": "176",
+    "cumulative_cases": "38314",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.894"
+  },
+  {
+    "specimen_collection_date": "2021-07-16T00:00:00.000",
+    "new_cases": "132",
+    "cumulative_cases": "38446",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.257"
+  },
+  {
+    "specimen_collection_date": "2021-07-17T00:00:00.000",
+    "new_cases": "107",
+    "cumulative_cases": "38553",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.682"
+  },
+  {
+    "specimen_collection_date": "2021-07-18T00:00:00.000",
+    "new_cases": "70",
+    "cumulative_cases": "38623",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.895"
+  },
+  {
+    "specimen_collection_date": "2021-07-19T00:00:00.000",
+    "new_cases": "195",
+    "cumulative_cases": "38818",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.258"
+  },
+  {
+    "specimen_collection_date": "2021-07-20T00:00:00.000",
+    "new_cases": "237",
+    "cumulative_cases": "39055",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.683"
+  },
+  {
+    "specimen_collection_date": "2021-07-21T00:00:00.000",
+    "new_cases": "252",
+    "cumulative_cases": "39307",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.896"
+  },
+  {
+    "specimen_collection_date": "2021-07-22T00:00:00.000",
+    "new_cases": "236",
+    "cumulative_cases": "39543",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.260"
+  },
+  {
+    "specimen_collection_date": "2021-07-23T00:00:00.000",
+    "new_cases": "228",
+    "cumulative_cases": "39771",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.685"
+  },
+  {
+    "specimen_collection_date": "2021-07-24T00:00:00.000",
+    "new_cases": "153",
+    "cumulative_cases": "39924",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.900"
+  },
+  {
+    "specimen_collection_date": "2021-07-25T00:00:00.000",
+    "new_cases": "110",
+    "cumulative_cases": "40034",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.261"
+  },
+  {
+    "specimen_collection_date": "2021-07-26T00:00:00.000",
+    "new_cases": "283",
+    "cumulative_cases": "40317",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.686"
+  },
+  {
+    "specimen_collection_date": "2021-07-27T00:00:00.000",
+    "new_cases": "348",
+    "cumulative_cases": "40665",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.901"
+  },
+  {
+    "specimen_collection_date": "2021-07-28T00:00:00.000",
+    "new_cases": "399",
+    "cumulative_cases": "41064",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.263"
+  },
+  {
+    "specimen_collection_date": "2021-07-29T00:00:00.000",
+    "new_cases": "446",
+    "cumulative_cases": "41510",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.687"
+  },
+  {
+    "specimen_collection_date": "2021-07-30T00:00:00.000",
+    "new_cases": "264",
+    "cumulative_cases": "41774",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.902"
+  },
+  {
+    "specimen_collection_date": "2021-07-31T00:00:00.000",
+    "new_cases": "209",
+    "cumulative_cases": "41983",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.264"
+  },
+  {
+    "specimen_collection_date": "2021-08-01T00:00:00.000",
+    "new_cases": "144",
+    "cumulative_cases": "42127",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.688"
+  },
+  {
+    "specimen_collection_date": "2021-08-02T00:00:00.000",
+    "new_cases": "357",
+    "cumulative_cases": "42484",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.904"
+  },
+  {
+    "specimen_collection_date": "2021-08-03T00:00:00.000",
+    "new_cases": "339",
+    "cumulative_cases": "42823",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.265"
+  },
+  {
+    "specimen_collection_date": "2021-08-04T00:00:00.000",
+    "new_cases": "324",
+    "cumulative_cases": "43147",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.689"
+  },
+  {
+    "specimen_collection_date": "2021-08-05T00:00:00.000",
+    "new_cases": "294",
+    "cumulative_cases": "43441",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.905"
+  },
+  {
+    "specimen_collection_date": "2021-08-06T00:00:00.000",
+    "new_cases": "250",
+    "cumulative_cases": "43691",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.267"
+  },
+  {
+    "specimen_collection_date": "2021-08-07T00:00:00.000",
+    "new_cases": "156",
+    "cumulative_cases": "43847",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.691"
+  },
+  {
+    "specimen_collection_date": "2021-08-08T00:00:00.000",
+    "new_cases": "119",
+    "cumulative_cases": "43966",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.907"
+  },
+  {
+    "specimen_collection_date": "2021-08-09T00:00:00.000",
+    "new_cases": "276",
+    "cumulative_cases": "44242",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.268"
+  },
+  {
+    "specimen_collection_date": "2021-08-10T00:00:00.000",
+    "new_cases": "250",
+    "cumulative_cases": "44492",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.692"
+  },
+  {
+    "specimen_collection_date": "2021-08-11T00:00:00.000",
+    "new_cases": "252",
+    "cumulative_cases": "44744",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.908"
+  },
+  {
+    "specimen_collection_date": "2021-08-12T00:00:00.000",
+    "new_cases": "239",
+    "cumulative_cases": "44983",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.275"
+  },
+  {
+    "specimen_collection_date": "2021-08-13T00:00:00.000",
+    "new_cases": "207",
+    "cumulative_cases": "45190",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.693"
+  },
+  {
+    "specimen_collection_date": "2021-08-14T00:00:00.000",
+    "new_cases": "121",
+    "cumulative_cases": "45311",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.909"
+  },
+  {
+    "specimen_collection_date": "2021-08-15T00:00:00.000",
+    "new_cases": "108",
+    "cumulative_cases": "45419",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.277"
+  },
+  {
+    "specimen_collection_date": "2021-08-16T00:00:00.000",
+    "new_cases": "241",
+    "cumulative_cases": "45660",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.695"
+  },
+  {
+    "specimen_collection_date": "2021-08-17T00:00:00.000",
+    "new_cases": "218",
+    "cumulative_cases": "45878",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.911"
+  },
+  {
+    "specimen_collection_date": "2021-08-18T00:00:00.000",
+    "new_cases": "202",
+    "cumulative_cases": "46080",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.279"
+  },
+  {
+    "specimen_collection_date": "2021-08-19T00:00:00.000",
+    "new_cases": "213",
+    "cumulative_cases": "46293",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.696"
+  },
+  {
+    "specimen_collection_date": "2021-08-20T00:00:00.000",
+    "new_cases": "151",
+    "cumulative_cases": "46444",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.912"
+  },
+  {
+    "specimen_collection_date": "2021-08-21T00:00:00.000",
+    "new_cases": "84",
+    "cumulative_cases": "46528",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.280"
+  },
+  {
+    "specimen_collection_date": "2021-08-22T00:00:00.000",
+    "new_cases": "73",
+    "cumulative_cases": "46601",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.697"
+  },
+  {
+    "specimen_collection_date": "2021-08-23T00:00:00.000",
+    "new_cases": "178",
+    "cumulative_cases": "46779",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.913"
+  },
+  {
+    "specimen_collection_date": "2021-08-24T00:00:00.000",
+    "new_cases": "151",
+    "cumulative_cases": "46930",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.281"
+  },
+  {
+    "specimen_collection_date": "2021-08-25T00:00:00.000",
+    "new_cases": "183",
+    "cumulative_cases": "47113",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.698"
+  },
+  {
+    "specimen_collection_date": "2021-08-26T00:00:00.000",
+    "new_cases": "167",
+    "cumulative_cases": "47280",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.915"
+  },
+  {
+    "specimen_collection_date": "2021-08-27T00:00:00.000",
+    "new_cases": "127",
+    "cumulative_cases": "47407",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.283"
+  },
+  {
+    "specimen_collection_date": "2021-08-28T00:00:00.000",
+    "new_cases": "69",
+    "cumulative_cases": "47476",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.699"
+  },
+  {
+    "specimen_collection_date": "2021-08-29T00:00:00.000",
+    "new_cases": "70",
+    "cumulative_cases": "47546",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.916"
+  },
+  {
+    "specimen_collection_date": "2021-08-30T00:00:00.000",
+    "new_cases": "137",
+    "cumulative_cases": "47683",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.285"
+  },
+  {
+    "specimen_collection_date": "2021-08-31T00:00:00.000",
+    "new_cases": "149",
+    "cumulative_cases": "47832",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.701"
+  },
+  {
+    "specimen_collection_date": "2021-09-01T00:00:00.000",
+    "new_cases": "131",
+    "cumulative_cases": "47963",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.918"
+  },
+  {
+    "specimen_collection_date": "2021-09-02T00:00:00.000",
+    "new_cases": "108",
+    "cumulative_cases": "48071",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.288"
+  },
+  {
+    "specimen_collection_date": "2021-09-03T00:00:00.000",
+    "new_cases": "111",
+    "cumulative_cases": "48182",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.702"
+  },
+  {
+    "specimen_collection_date": "2021-09-04T00:00:00.000",
+    "new_cases": "60",
+    "cumulative_cases": "48242",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.919"
+  },
+  {
+    "specimen_collection_date": "2021-09-05T00:00:00.000",
+    "new_cases": "59",
+    "cumulative_cases": "48301",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.289"
+  },
+  {
+    "specimen_collection_date": "2021-09-06T00:00:00.000",
+    "new_cases": "66",
+    "cumulative_cases": "48367",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.703"
+  },
+  {
+    "specimen_collection_date": "2021-09-07T00:00:00.000",
+    "new_cases": "148",
+    "cumulative_cases": "48515",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.920"
+  },
+  {
+    "specimen_collection_date": "2021-09-08T00:00:00.000",
+    "new_cases": "140",
+    "cumulative_cases": "48655",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.291"
+  },
+  {
+    "specimen_collection_date": "2021-09-09T00:00:00.000",
+    "new_cases": "149",
+    "cumulative_cases": "48804",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.704"
+  },
+  {
+    "specimen_collection_date": "2021-09-10T00:00:00.000",
+    "new_cases": "117",
+    "cumulative_cases": "48921",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.922"
+  },
+  {
+    "specimen_collection_date": "2021-09-11T00:00:00.000",
+    "new_cases": "72",
+    "cumulative_cases": "48993",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.292"
+  },
+  {
+    "specimen_collection_date": "2021-09-12T00:00:00.000",
+    "new_cases": "42",
+    "cumulative_cases": "49035",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.706"
+  },
+  {
+    "specimen_collection_date": "2021-09-13T00:00:00.000",
+    "new_cases": "121",
+    "cumulative_cases": "49156",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.923"
+  },
+  {
+    "specimen_collection_date": "2021-09-14T00:00:00.000",
+    "new_cases": "130",
+    "cumulative_cases": "49286",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.294"
+  },
+  {
+    "specimen_collection_date": "2021-09-15T00:00:00.000",
+    "new_cases": "120",
+    "cumulative_cases": "49406",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.707"
+  },
+  {
+    "specimen_collection_date": "2021-09-16T00:00:00.000",
+    "new_cases": "121",
+    "cumulative_cases": "49527",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.925"
+  },
+  {
+    "specimen_collection_date": "2021-09-17T00:00:00.000",
+    "new_cases": "99",
+    "cumulative_cases": "49626",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.295"
+  },
+  {
+    "specimen_collection_date": "2021-09-18T00:00:00.000",
+    "new_cases": "63",
+    "cumulative_cases": "49689",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.708"
+  },
+  {
+    "specimen_collection_date": "2021-09-19T00:00:00.000",
+    "new_cases": "66",
+    "cumulative_cases": "49755",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.926"
+  },
+  {
+    "specimen_collection_date": "2021-09-20T00:00:00.000",
+    "new_cases": "92",
+    "cumulative_cases": "49847",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.296"
+  },
+  {
+    "specimen_collection_date": "2021-09-21T00:00:00.000",
+    "new_cases": "95",
+    "cumulative_cases": "49942",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.709"
+  },
+  {
+    "specimen_collection_date": "2021-09-22T00:00:00.000",
+    "new_cases": "99",
+    "cumulative_cases": "50041",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.928"
+  },
+  {
+    "specimen_collection_date": "2021-09-23T00:00:00.000",
+    "new_cases": "94",
+    "cumulative_cases": "50135",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.298"
+  },
+  {
+    "specimen_collection_date": "2021-09-24T00:00:00.000",
+    "new_cases": "78",
+    "cumulative_cases": "50213",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.711"
+  },
+  {
+    "specimen_collection_date": "2021-09-25T00:00:00.000",
+    "new_cases": "45",
+    "cumulative_cases": "50258",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.929"
+  },
+  {
+    "specimen_collection_date": "2021-09-26T00:00:00.000",
+    "new_cases": "41",
+    "cumulative_cases": "50299",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.299"
+  },
+  {
+    "specimen_collection_date": "2021-09-27T00:00:00.000",
+    "new_cases": "117",
+    "cumulative_cases": "50416",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.712"
+  },
+  {
+    "specimen_collection_date": "2021-09-28T00:00:00.000",
+    "new_cases": "75",
+    "cumulative_cases": "50491",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.930"
+  },
+  {
+    "specimen_collection_date": "2021-09-29T00:00:00.000",
+    "new_cases": "109",
+    "cumulative_cases": "50600",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.300"
+  },
+  {
+    "specimen_collection_date": "2021-09-30T00:00:00.000",
+    "new_cases": "113",
+    "cumulative_cases": "50713",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.713"
+  },
+  {
+    "specimen_collection_date": "2021-10-01T00:00:00.000",
+    "new_cases": "93",
+    "cumulative_cases": "50806",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.933"
+  },
+  {
+    "specimen_collection_date": "2021-10-02T00:00:00.000",
+    "new_cases": "40",
+    "cumulative_cases": "50846",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.302"
+  },
+  {
+    "specimen_collection_date": "2021-10-03T00:00:00.000",
+    "new_cases": "37",
+    "cumulative_cases": "50883",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.714"
+  },
+  {
+    "specimen_collection_date": "2021-10-04T00:00:00.000",
+    "new_cases": "87",
+    "cumulative_cases": "50970",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.934"
+  },
+  {
+    "specimen_collection_date": "2021-10-05T00:00:00.000",
+    "new_cases": "86",
+    "cumulative_cases": "51056",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.303"
+  },
+  {
+    "specimen_collection_date": "2021-10-06T00:00:00.000",
+    "new_cases": "109",
+    "cumulative_cases": "51165",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.716"
+  },
+  {
+    "specimen_collection_date": "2021-10-07T00:00:00.000",
+    "new_cases": "71",
+    "cumulative_cases": "51236",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.949"
+  },
+  {
+    "specimen_collection_date": "2021-10-08T00:00:00.000",
+    "new_cases": "61",
+    "cumulative_cases": "51297",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.304"
+  },
+  {
+    "specimen_collection_date": "2021-10-09T00:00:00.000",
+    "new_cases": "34",
+    "cumulative_cases": "51331",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.717"
+  },
+  {
+    "specimen_collection_date": "2021-10-10T00:00:00.000",
+    "new_cases": "30",
+    "cumulative_cases": "51361",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.951"
+  },
+  {
+    "specimen_collection_date": "2021-10-11T00:00:00.000",
+    "new_cases": "58",
+    "cumulative_cases": "51419",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.306"
+  },
+  {
+    "specimen_collection_date": "2021-10-12T00:00:00.000",
+    "new_cases": "78",
+    "cumulative_cases": "51497",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.718"
+  },
+  {
+    "specimen_collection_date": "2021-10-13T00:00:00.000",
+    "new_cases": "64",
+    "cumulative_cases": "51561",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.952"
+  },
+  {
+    "specimen_collection_date": "2021-10-14T00:00:00.000",
+    "new_cases": "49",
+    "cumulative_cases": "51610",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.308"
+  },
+  {
+    "specimen_collection_date": "2021-10-15T00:00:00.000",
+    "new_cases": "58",
+    "cumulative_cases": "51668",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.719"
+  },
+  {
+    "specimen_collection_date": "2021-10-16T00:00:00.000",
+    "new_cases": "29",
+    "cumulative_cases": "51697",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.954"
+  },
+  {
+    "specimen_collection_date": "2021-10-17T00:00:00.000",
+    "new_cases": "23",
+    "cumulative_cases": "51720",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.309"
+  },
+  {
+    "specimen_collection_date": "2021-10-18T00:00:00.000",
+    "new_cases": "71",
+    "cumulative_cases": "51791",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.721"
+  },
+  {
+    "specimen_collection_date": "2021-10-19T00:00:00.000",
+    "new_cases": "67",
+    "cumulative_cases": "51858",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.955"
+  },
+  {
+    "specimen_collection_date": "2021-10-20T00:00:00.000",
+    "new_cases": "81",
+    "cumulative_cases": "51939",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.310"
+  },
+  {
+    "specimen_collection_date": "2021-10-21T00:00:00.000",
+    "new_cases": "58",
+    "cumulative_cases": "51997",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.722"
+  },
+  {
+    "specimen_collection_date": "2021-10-22T00:00:00.000",
+    "new_cases": "49",
+    "cumulative_cases": "52046",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.956"
+  },
+  {
+    "specimen_collection_date": "2021-10-23T00:00:00.000",
+    "new_cases": "37",
+    "cumulative_cases": "52083",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.312"
+  },
+  {
+    "specimen_collection_date": "2021-10-24T00:00:00.000",
+    "new_cases": "11",
+    "cumulative_cases": "52094",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.723"
+  },
+  {
+    "specimen_collection_date": "2021-10-25T00:00:00.000",
+    "new_cases": "58",
+    "cumulative_cases": "52152",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.974"
+  },
+  {
+    "specimen_collection_date": "2021-10-26T00:00:00.000",
+    "new_cases": "59",
+    "cumulative_cases": "52211",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.313"
+  },
+  {
+    "specimen_collection_date": "2021-10-27T00:00:00.000",
+    "new_cases": "87",
+    "cumulative_cases": "52298",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.724"
+  },
+  {
+    "specimen_collection_date": "2021-10-28T00:00:00.000",
+    "new_cases": "63",
+    "cumulative_cases": "52361",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.976"
+  },
+  {
+    "specimen_collection_date": "2021-10-29T00:00:00.000",
+    "new_cases": "49",
+    "cumulative_cases": "52410",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.315"
+  },
+  {
+    "specimen_collection_date": "2021-10-30T00:00:00.000",
+    "new_cases": "46",
+    "cumulative_cases": "52456",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.726"
+  },
+  {
+    "specimen_collection_date": "2021-10-31T00:00:00.000",
+    "new_cases": "19",
+    "cumulative_cases": "52475",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.979"
+  },
+  {
+    "specimen_collection_date": "2021-11-01T00:00:00.000",
+    "new_cases": "64",
+    "cumulative_cases": "52539",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.317"
+  },
+  {
+    "specimen_collection_date": "2021-11-02T00:00:00.000",
+    "new_cases": "82",
+    "cumulative_cases": "52621",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.727"
+  },
+  {
+    "specimen_collection_date": "2021-11-03T00:00:00.000",
+    "new_cases": "115",
+    "cumulative_cases": "52736",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.980"
+  },
+  {
+    "specimen_collection_date": "2021-11-04T00:00:00.000",
+    "new_cases": "104",
+    "cumulative_cases": "52840",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.319"
+  },
+  {
+    "specimen_collection_date": "2021-11-05T00:00:00.000",
+    "new_cases": "108",
+    "cumulative_cases": "52948",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.728"
+  },
+  {
+    "specimen_collection_date": "2021-11-06T00:00:00.000",
+    "new_cases": "55",
+    "cumulative_cases": "53003",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.982"
+  },
+  {
+    "specimen_collection_date": "2021-11-07T00:00:00.000",
+    "new_cases": "39",
+    "cumulative_cases": "53042",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.320"
+  },
+  {
+    "specimen_collection_date": "2021-11-08T00:00:00.000",
+    "new_cases": "75",
+    "cumulative_cases": "53117",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.729"
+  },
+  {
+    "specimen_collection_date": "2021-11-09T00:00:00.000",
+    "new_cases": "60",
+    "cumulative_cases": "53177",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.983"
+  },
+  {
+    "specimen_collection_date": "2021-11-10T00:00:00.000",
+    "new_cases": "66",
+    "cumulative_cases": "53243",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.321"
+  },
+  {
+    "specimen_collection_date": "2021-11-11T00:00:00.000",
+    "new_cases": "84",
+    "cumulative_cases": "53327",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.731"
+  },
+  {
+    "specimen_collection_date": "2021-11-12T00:00:00.000",
+    "new_cases": "59",
+    "cumulative_cases": "53386",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.985"
+  },
+  {
+    "specimen_collection_date": "2021-11-13T00:00:00.000",
+    "new_cases": "32",
+    "cumulative_cases": "53418",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.323"
+  },
+  {
+    "specimen_collection_date": "2021-11-14T00:00:00.000",
+    "new_cases": "26",
+    "cumulative_cases": "53444",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.732"
+  },
+  {
+    "specimen_collection_date": "2021-11-15T00:00:00.000",
+    "new_cases": "64",
+    "cumulative_cases": "53508",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.986"
+  },
+  {
+    "specimen_collection_date": "2021-11-16T00:00:00.000",
+    "new_cases": "76",
+    "cumulative_cases": "53584",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.324"
+  },
+  {
+    "specimen_collection_date": "2021-11-17T00:00:00.000",
+    "new_cases": "80",
+    "cumulative_cases": "53664",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.733"
+  },
+  {
+    "specimen_collection_date": "2021-11-18T00:00:00.000",
+    "new_cases": "64",
+    "cumulative_cases": "53728",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.988"
+  },
+  {
+    "specimen_collection_date": "2021-11-19T00:00:00.000",
+    "new_cases": "52",
+    "cumulative_cases": "53780",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.326"
+  },
+  {
+    "specimen_collection_date": "2021-11-20T00:00:00.000",
+    "new_cases": "42",
+    "cumulative_cases": "53822",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.734"
+  },
+  {
+    "specimen_collection_date": "2021-11-21T00:00:00.000",
+    "new_cases": "30",
+    "cumulative_cases": "53852",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.989"
+  },
+  {
+    "specimen_collection_date": "2021-11-22T00:00:00.000",
+    "new_cases": "59",
+    "cumulative_cases": "53911",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.328"
+  },
+  {
+    "specimen_collection_date": "2021-11-23T00:00:00.000",
+    "new_cases": "67",
+    "cumulative_cases": "53978",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.736"
+  },
+  {
+    "specimen_collection_date": "2021-11-24T00:00:00.000",
+    "new_cases": "65",
+    "cumulative_cases": "54043",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.990"
+  },
+  {
+    "specimen_collection_date": "2021-11-25T00:00:00.000",
+    "new_cases": "13",
+    "cumulative_cases": "54056",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.331"
+  },
+  {
+    "specimen_collection_date": "2021-11-26T00:00:00.000",
+    "new_cases": "44",
+    "cumulative_cases": "54100",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.737"
+  },
+  {
+    "specimen_collection_date": "2021-11-27T00:00:00.000",
+    "new_cases": "36",
+    "cumulative_cases": "54136",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.992"
+  },
+  {
+    "specimen_collection_date": "2021-11-28T00:00:00.000",
+    "new_cases": "31",
+    "cumulative_cases": "54167",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.333"
+  },
+  {
+    "specimen_collection_date": "2021-11-29T00:00:00.000",
+    "new_cases": "79",
+    "cumulative_cases": "54246",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.738"
+  },
+  {
+    "specimen_collection_date": "2021-11-30T00:00:00.000",
+    "new_cases": "114",
+    "cumulative_cases": "54360",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.993"
+  },
+  {
+    "specimen_collection_date": "2021-12-01T00:00:00.000",
+    "new_cases": "97",
+    "cumulative_cases": "54457",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.336"
+  },
+  {
+    "specimen_collection_date": "2021-12-02T00:00:00.000",
+    "new_cases": "91",
+    "cumulative_cases": "54548",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.739"
+  },
+  {
+    "specimen_collection_date": "2021-12-03T00:00:00.000",
+    "new_cases": "76",
+    "cumulative_cases": "54624",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.994"
+  },
+  {
+    "specimen_collection_date": "2021-12-04T00:00:00.000",
+    "new_cases": "53",
+    "cumulative_cases": "54677",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.340"
+  },
+  {
+    "specimen_collection_date": "2021-12-05T00:00:00.000",
+    "new_cases": "48",
+    "cumulative_cases": "54725",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.741"
+  },
+  {
+    "specimen_collection_date": "2021-12-06T00:00:00.000",
+    "new_cases": "90",
+    "cumulative_cases": "54815",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.996"
+  },
+  {
+    "specimen_collection_date": "2021-12-07T00:00:00.000",
+    "new_cases": "102",
+    "cumulative_cases": "54917",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.346"
+  },
+  {
+    "specimen_collection_date": "2021-12-08T00:00:00.000",
+    "new_cases": "109",
+    "cumulative_cases": "55026",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.742"
+  },
+  {
+    "specimen_collection_date": "2021-12-09T00:00:00.000",
+    "new_cases": "106",
+    "cumulative_cases": "55132",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.997"
+  },
+  {
+    "specimen_collection_date": "2021-12-10T00:00:00.000",
+    "new_cases": "83",
+    "cumulative_cases": "55215",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.351"
+  },
+  {
+    "specimen_collection_date": "2021-12-11T00:00:00.000",
+    "new_cases": "64",
+    "cumulative_cases": "55279",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.743"
+  },
+  {
+    "specimen_collection_date": "2021-12-12T00:00:00.000",
+    "new_cases": "54",
+    "cumulative_cases": "55333",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:10.998"
+  },
+  {
+    "specimen_collection_date": "2021-12-13T00:00:00.000",
+    "new_cases": "120",
+    "cumulative_cases": "55453",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.352"
+  },
+  {
+    "specimen_collection_date": "2021-12-14T00:00:00.000",
+    "new_cases": "230",
+    "cumulative_cases": "55683",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.744"
+  },
+  {
+    "specimen_collection_date": "2021-12-15T00:00:00.000",
+    "new_cases": "278",
+    "cumulative_cases": "55961",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.000"
+  },
+  {
+    "specimen_collection_date": "2021-12-16T00:00:00.000",
+    "new_cases": "305",
+    "cumulative_cases": "56266",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.359"
+  },
+  {
+    "specimen_collection_date": "2021-12-17T00:00:00.000",
+    "new_cases": "301",
+    "cumulative_cases": "56567",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.746"
+  },
+  {
+    "specimen_collection_date": "2021-12-18T00:00:00.000",
+    "new_cases": "253",
+    "cumulative_cases": "56820",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.001"
+  },
+  {
+    "specimen_collection_date": "2021-12-19T00:00:00.000",
+    "new_cases": "214",
+    "cumulative_cases": "57034",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.363"
+  },
+  {
+    "specimen_collection_date": "2021-12-20T00:00:00.000",
+    "new_cases": "584",
+    "cumulative_cases": "57618",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.747"
+  },
+  {
+    "specimen_collection_date": "2021-12-21T00:00:00.000",
+    "new_cases": "895",
+    "cumulative_cases": "58513",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.002"
+  },
+  {
+    "specimen_collection_date": "2021-12-22T00:00:00.000",
+    "new_cases": "956",
+    "cumulative_cases": "59469",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.364"
+  },
+  {
+    "specimen_collection_date": "2021-12-23T00:00:00.000",
+    "new_cases": "1097",
+    "cumulative_cases": "60566",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.748"
+  },
+  {
+    "specimen_collection_date": "2021-12-24T00:00:00.000",
+    "new_cases": "494",
+    "cumulative_cases": "61060",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.004"
+  },
+  {
+    "specimen_collection_date": "2021-12-25T00:00:00.000",
+    "new_cases": "90",
+    "cumulative_cases": "61150",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.365"
+  },
+  {
+    "specimen_collection_date": "2021-12-26T00:00:00.000",
+    "new_cases": "758",
+    "cumulative_cases": "61908",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.749"
+  },
+  {
+    "specimen_collection_date": "2021-12-27T00:00:00.000",
+    "new_cases": "1510",
+    "cumulative_cases": "63418",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.005"
+  },
+  {
+    "specimen_collection_date": "2021-12-28T00:00:00.000",
+    "new_cases": "1679",
+    "cumulative_cases": "65097",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.367"
+  },
+  {
+    "specimen_collection_date": "2021-12-29T00:00:00.000",
+    "new_cases": "1542",
+    "cumulative_cases": "66639",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.751"
+  },
+  {
+    "specimen_collection_date": "2021-12-30T00:00:00.000",
+    "new_cases": "1610",
+    "cumulative_cases": "68249",
+    "data_as_of": "2022-01-04T04:30:01.163",
+    "data_loaded_at": "2022-01-04T07:00:11.007"
+  }
+]
